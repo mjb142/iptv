@@ -4,3 +4,5 @@ http://167.114.174.132:9092/movies/BATCH217/Jack.Reacher.Never.Go.Back.2016.720p
 http://167.114.174.132:9092/movies/BATCH217/Boo%21.A.Madea.Halloween.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Purge: Election Year (2016)" tvg-logo="https://image.tmdb.org/t/p/original//ubLbY97m8lYJ3Fykh7nfiwB5eth.jpg" group-title="Movies",The Purge: Election Year
 http://167.114.174.132:9092/movies/Batch206/The.Purge.Election.Year.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Independence Day: Resurgence (2016)" tvg-logo="https://image.tmdb.org/t/p/original//jzpvh0Ic7jL9GX4NLE1Tx2GUCrN.jpg" group-title="Movies",Independence Day: Resurgence
+http://167.114.174.132:9092/movies/Batch207/Independence.Day.Resurgence.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
