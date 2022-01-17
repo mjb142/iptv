@@ -6,3 +6,15 @@ http://167.114.174.132:9092/movies/BATCH217/Boo%21.A.Madea.Halloween.2016.720p.B
 http://167.114.174.132:9092/movies/Batch206/The.Purge.Election.Year.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Independence Day: Resurgence (2016)" tvg-logo="https://image.tmdb.org/t/p/original//jzpvh0Ic7jL9GX4NLE1Tx2GUCrN.jpg" group-title="Movies",Independence Day: Resurgence
 http://167.114.174.132:9092/movies/Batch207/Independence.Day.Resurgence.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Don't Breathe (2016)" tvg-logo="https://image.tmdb.org/t/p/original//kkUMGON2uFRlxI3zIMFdjqARnbb.jpg" group-title="Movies",Don't Breathe
+http://167.114.174.132:9092/movies/Batch211/Dont.Breathe.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jason Bourne (2016)" tvg-logo="https://image.tmdb.org/t/p/original//xA7N41glw17MBQtcWSm2eBlBRuG.jpg" group-title="Movies",Jason Bourne
+http://167.114.174.132:9092/movies/Batch211/Jason.Bourne.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sully (2016)" tvg-logo="https://image.tmdb.org/t/p/original//5L29r3uwDe49XDMaK2xDkDht9t0.jpg" group-title="Movies",Sully
+http://167.114.174.132:9092/movies/Batch212/Sully.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Magnificent Seven (2016)" tvg-logo="https://image.tmdb.org/t/p/original//ezcS78TIjgr85pVdaPDd2rSPVNs.jpg" group-title="Movies",The Magnificent Seven
+http://167.114.174.132:9092/movies/Batch213/The.Magnificent.Seven.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="47 Ronin (2013)" tvg-logo="https://image.tmdb.org/t/p/original//xDHnmcroujCRG0ysYQaiswjbyHd.jpg" group-title="Movies",47 Ronin 
+http://167.114.174.132:9092/movies/Batch219/47%20Ronin%20%282013%29/47%20Ronin%20%282013%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dawn of the Planet of the Apes (2014)" tvg-logo="https://image.tmdb.org/t/p/original//ie14Sm0hRI5f7Te2KIfU64NyCPr.jpg" group-title="Movies",Dawn of the Planet of the Apes 
+http://167.114.174.132:9092/movies/Batch219/Dawn%20of%20the%20Planet%20of%20the%20Apes%20%282014%29/Dawn%20of%20the%20Planet%20of%20the%20Apes%20%282014%29.mp4
