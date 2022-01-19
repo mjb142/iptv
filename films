@@ -12,6 +12,8 @@ https://tartarus.feralhosting.com/firepig/JP/MOVIES/No%20Time%20To%20Die%20%2820
 http://167.86.72.208/incoming/Movies/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021.1080p.BDRip.X264.DTS-EVO%5bTGx%5d/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021.1080p.BDRip.X264.DTS-EVO.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dune (2001)" tvg-logo="https://image.tmdb.org/t/p/original//d5NXSklXo0qyIYkgV94XAgMIckC.jpg" group-title="Old Movies",Dune
 http://219.240.14.229/web/Dune.2021.1080p.WEBRip.x264.AAC5.1-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nobody (2021)" tvg-logo="https://image.tmdb.org/t/p/original//oBgWY00bEFeZ9N25wWVyuQddbAo.jpg" group-title="New Movies",Nobody
+http://73.82.182.197/Movies/Nobody.2021.1080.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Red Notice (2021)" tvg-logo="https://image.tmdb.org/t/p/original//lAXONuqg41NwUMuzMiFvicDET9Y.jpg" group-title="New Movies",Red Notice
 http://idriders.com/temp/dawn/Red.Notice.2021.1080p.WEB.H264-PECULATE%5brarbg%5d/Red.Notice.2021.1080p.WEB.H264-PECULATE.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Venom: Let There Be Carnage (2021)" tvg-logo="https://image.tmdb.org/t/p/original//rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg" group-title="New Movies",Venom: Let There Be Carnage
@@ -104,8 +106,9 @@ http://167.114.174.132:9092/movies/Batch219/Divergent%20%282014%29/Divergent%20%
 http://167.114.174.132:9092/movies/Batch219/Edge%20of%20Tomorrow%20%282014%29/Edge%20of%20Tomorrow%20%282014%29.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Furious 7 (2015)" tvg-logo="https://image.tmdb.org/t/p/original//ktofZ9Htrjiy0P6LEowsDaxd3Ri.jpg" group-title="Movies",Furious 7
 http://167.114.174.132:9092/movies/Batch219/Furious%207%20%282015%29/Furious%207%20%282015%29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy (2014)" tvg-logo="https://image.tmdb.org/t/p/original//r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg" group-title="Movies",Guardians of the Galaxy
-http://167.114.174.132:9092/movies/Batch219/Guardians%20of%20the%20Galaxy%20%282014%29/Guardians%20of%20the%20Galaxy%20%282014%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="John Wick (2014)" tvg-logo="https://image.tmdb.org/t/p/original//fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg" group-title="Movies",John Wick
+http://167.114.174.132:9092/movies/Batch219/JhnWck124/JhnWck124.mp4
+
 
 
 
