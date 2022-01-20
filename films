@@ -1,33 +1,47 @@
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://167.114.174.132:9092/imagenes/glitch_boton_movies.png" group-title="New Movies",
+group-title="New Movies"
 
 #EXTINF:-1 tvg-id="" tvg-name="Eternals (2022)" tvg-logo="https://image.tmdb.org/t/p/original//b6qUu00iIIkXX13szFy7d0CyNcg.jpg" group-title="New Movies",Eternals
 http://167.86.72.208/incoming/Movies/Eternals.2021.1080p.WEBRip.DDP5.1.Atmos.x264-PRGON/Eternals.2021.1080p.WEBRip.DDP5.1.Atmos.x264-PRGON.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="The Matrix Resurrections (2021)" tvg-logo="https://image.tmdb.org/t/p/original//8c4a8kE7PizaGQQnditMmI1xbRp.jpg" group-title="New Movies",The Matrix Resurrections
 http://jdlexportgh.com/matrix/The.Matrix.4.Resurrections.2021.1080p.WEBRip.x264-RARBG.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Ray Donovan: The Movie (2022)" tvg-logo="https://image.tmdb.org/t/p/original//5sw1EvOeXMGRZGWr18R4EiZs036.jpg" group-title="New Movies",Ray Donovan: The Movie
 http://192.64.86.228/Ray%20Donovan%20The%20Movie%20(2022)/Ray.Donovan.The.Movie.2022.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="No Time To Die (2021)" tvg-logo="https://image.tmdb.org/t/p/original//iUgygt3fscRoKWCV1d0C7FbM9TP.jpg" group-title="New Movies",No Time To Die 
 https://tartarus.feralhosting.com/firepig/JP/MOVIES/No%20Time%20To%20Die%20%282021%29%20%5B1080p%5D%20%5BWEBRip%5D%20%5B5.1%5D%20%5BYTS.MX%5D/No.Time.To.Die.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Shang-Chi and the Legend of the Ten Rings (2021)" tvg-logo="https://image.tmdb.org/t/p/original//1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg" group-title="New Movies",Shang-Chi and the Legend of the Ten Rings
 http://167.86.72.208/incoming/Movies/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021.1080p.BDRip.X264.DTS-EVO%5bTGx%5d/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021.1080p.BDRip.X264.DTS-EVO.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Nobody (2021)" tvg-logo="https://image.tmdb.org/t/p/original//oBgWY00bEFeZ9N25wWVyuQddbAo.jpg" group-title="New Movies",Nobody
 http://73.82.182.197/Movies/Nobody.2021.1080.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Wrath of Man (2021)" tvg-logo="https://image.tmdb.org/t/p/original//M7SUK85sKjaStg4TKhlAVyGlz3.jpg" group-title="New Movies",Wrath of Man (2021)
 http://73.82.182.197/Movies/Wrath.of.Man.2021.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Dune (2021)" tvg-logo="https://image.tmdb.org/t/p/original//d5NXSklXo0qyIYkgV94XAgMIckC.jpg" group-title="New Movies",Dune
 http://219.240.14.229/web/Dune.2021.1080p.WEBRip.x264.AAC5.1-%5bYTS.MX%5d.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="A Quiet Place Part II (2021)" tvg-logo="https://image.tmdb.org/t/p/original//4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg" group-title="New Movies",A Quiet Place Part II
 http://73.82.182.197/Movies/A%20Quiet%20Place%20Part%20II.2021.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Red Notice (2021)" tvg-logo="https://image.tmdb.org/t/p/original//lAXONuqg41NwUMuzMiFvicDET9Y.jpg" group-title="New Movies",Red Notice
 http://219.240.14.229/web/Red.Notice.2021.1080p.NF.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Venom: Let There Be Carnage (2021)" tvg-logo="https://image.tmdb.org/t/p/original//rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg" group-title="New Movies",Venom: Let There Be Carnage
 http://idriders.com/temp/dawn/Venom.Let.There.Be.Carnage.2021.WEBRip.XviD.MP3-XVID/Venom.Let.There.Be.Carnage.2021.WEBRip.XviD.MP3-XVID.avi
+
 #EXTINF:-1 tvg-id="" tvg-name="Black Widow (2021)" tvg-logo="https://image.tmdb.org/t/p/original//qAZ0pzat24kLdO3o8ejmbLxyOac.jpg" group-title="New Movies",Black Widow
 http://idriders.com/temp/dawn/Black.Widow.2021.1080p.WEBRip.x264-RARBG/Black.Widow.2021.1080p.WEBRip.x264-RARBG.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="The Suicide Squad (2021)" tvg-logo="https://image.tmdb.org/t/p/original//kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg" group-title="New Movies",The Suicide Squad
 http://idriders.com/temp/dawn/The.Suicide.Squad.2021.1080p.WEBRip.x264-RARBG/The.Suicide.Squad.2021.1080p.WEBRip.x264-RARBG.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Godzilla vs. Kong (2021)" tvg-logo="https://image.tmdb.org/t/p/original//pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg" group-title="New Movies",Godzilla vs. Kong
 http://dogjdw.ipdisk.co.kr/public/VOL1/public/learn/english/Godzilla.Vs..Kong.2021.1080p.WEBRip.x264.AAC5.1-%5bYTS.MX%5d.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="The Tomorrow War (2021)" tvg-logo="https://image.tmdb.org/t/p/original//34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg" group-title="New Movies",The Tomorrow War 
 http://rmeyer.comelitdns.com/Movies/The%20Tomorrow%20War%20(2021)%20%5b1080p%5d%20%5bWEBRip%5d%20%5b5.1%5d%20%5bYTS.MX%5d/The.Tomorrow.War.2021.1080p.WEBRip.x264.AAC5.1-%5bYTS.MX%5d.mp4
 
@@ -97,95 +111,152 @@ http://flixhub.net/Data/Disk4/ENGLISH_MOVIES/2021/Resident%20Evil%20Welcome%20to
 #EXTINF:-1 tvg-id="" tvg-name="Snake Eyes (2021)" tvg-logo="https://image.tmdb.org/t/p/original//uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg" group-title="New Movies",Snake Eyes
 http://flixhub.net/Data/Disk4/ENGLISH_MOVIES/2021/Snake%20Eyes%20%282021%29/Snake.Eyes.G.I.Joe.Origins.2020.720p.AMZN.WEB-DL.DDP5.1.H.264-Telly.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="Gunpowder Milkshake (2021)" tvg-logo="https://image.tmdb.org/t/p/original//5AaKulwpUtkscAokKWtLenGTfVS.jpg" group-title="New Movies",Gunpowder Milkshake
+http://73.82.182.197/Movies/Gunpowder.Milkshake.2021.1080p.WEB.h264-RUMOUR.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat Legends: Scorpion's Revenge (2020)" tvg-logo="https://image.tmdb.org/t/p/original//4VlXER3FImHeFuUjBShFamhIp9M.jpg" group-title="New Movies",Mortal Kombat Legends: Scorpion's Revenge
 http://flixhub.net/Data/Disk5/2020/Mortal%20Kombat%20Legends%3A%20Scorpion%27s%20Revenge%20%282020%29/Mortal.Kombat.Legends.Scorpions.Revenge.2020.1080p.WEB-DL.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="21 Bridges (2019)" tvg-logo="https://image.tmdb.org/t/p/original//kDlmrGZROewneCoSwPjKx6Qfown.jpg" group-title="New Movies",21 Bridges
 http://73.82.182.197/Movies/21.bridges.2019.1080p.amzn.web-dl.x265-BvS.mkv
 
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original//sIilfJUgRNySRfW49WUca3ZaFLo.jpg" group-title="Marvel Collection",
+#EXTINF:-1 tvg-id="" tvg-name="Soul (2020)" tvg-logo="https://image.tmdb.org/t/p/original//qPsZyyPmocFO70AOs1agd2UikfC.jpg" group-title="Movies",Soul
+https://www.realtv.id/tv/Box%20Office%20Anak%202020-2021/Soul%20%282020%29/Soul.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/32517/h2UmOa8K5xFmZiO4wmtPNWd9WBASwsdXpJR9XUU6.webp" group-title="New Movies",Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)
+http://73.82.182.197/Movies/Birds.of.Prey.And.the.Fantabulous.Emancipation.of.One.Harley.Quinn.2020.1080p.WEBRip.x264-RARBG.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Bloodshot (2020)" tvg-logo="https://image.tmdb.org/t/p/original//8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg" group-title="New Movies",Bloodshot
+http://73.82.182.197/Movies/Bloodshot.2020.1080p.WEB-DL.x264-Leader.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="21 Bridges (2019)" tvg-logo="https://image.tmdb.org/t/p/original//fapXd3v9qTcNBTm39ZC4KUVQDNf.jpg" group-title="Movies",Angel Has Fallen
+http://73.82.182.197/Movies/Angel.Has.Fallen.2019.1080p.BluRay.x264-HD3D.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Black and Blue (2019)" tvg-logo="https://image.tmdb.org/t/p/original//1cSHEKYYP8Dpi4o1iBVd4U75FYt.jpg" group-title="Movies",Black and Blue
+http://73.82.182.197/Movies/Black.And.Blue.2019.1080p.BluRay.mkv
+
+
+group-title="Marvel Collection"
 
 #EXTINF:-1 tvg-id="" tvg-name="Iron Man (2008)" tvg-logo="https://image.tmdb.org/t/p/original//78lPtwv72eTNqFW9COBYI0dWDJa.jpg" group-title="Marvel Collection",Iron Man
 https://tartarus.feralhosting.com/firepig/JP/MOVIES/Iron%20Man%202008%201080p%20BluRay%20x264%20%20AAC%20-%20Ozlem/Iron%20Man%202008%201080p%20BluRay%20x264%20%20AAC%20-%20Ozlem.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Iron Man 2(2010)" tvg-logo="https://image.tmdb.org/t/p/original//RYMX2wcKCBAr24UyPD7xwmjaTn.jpg" group-title="Marvel Collection",Iron Man 2
 https://archive.org/download/xxdutyxx_20170921/Iron.Man.2.2010.1080p.BrRip.x264.YIFY.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Thor (2011)" tvg-logo="https://image.tmdb.org/t/p/original//prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg" group-title="Marvel Collection",Thor
-https://archive.org/download/xxdutyxx_20170921/Thor.2011.720p.BrRip.264.YIFY.mp
+https://archive.org/download/xxdutyxx_20170921/Thor.2011.720p.BrRip.264.YIFY.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="	Captain America: The First Avenger (2011)" tvg-logo="https://image.tmdb.org/t/p/original//vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg" group-title="Marvel Collection",Captain America: The First Avenger
 https://archive.org/download/xxdutyxx_20170921/Captain.America.The.First.Avenger.720p.BrRip.x264.YIFY.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="The Avengers (2012)" tvg-logo="https://image.tmdb.org/t/p/original//6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg" group-title="Marvel Collection",The Avengers
 https://tartarus.feralhosting.com/firepig/JP/MOVIES/The%20Avengers%20%282012%29/The.Avengers.2012.720p.BluRay.x264.YIFY.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Iron Man 3 (2013)" tvg-logo="https://image.tmdb.org/t/p/original//qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg" group-title="Marvel Collection",Iron Man 3
 https://archive.org/download/xxdutyxx_20170921/Iron.Man.3.2013.720p.BluRay.x264.YIFY.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Thor: The Dark World (2013)" tvg-logo="https://image.tmdb.org/t/p/original//wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg" group-title="Marvel Collection",Thor: The Dark World
 https://archive.org/download/xxdutyxx_20170921/Thor.The.Dark.World.2013.720p.BluRay.x264.YIFY.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name=" Captain America: The Winter Soldier (2014)" tvg-logo="https://image.tmdb.org/t/p/original//tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg" group-title="Marvel Collection", Captain America: The Winter Soldier
 https://archive.org/download/xxdutyxx_20170921/Captain.America.The.Winter.Soldier.2014.720p.BluRay.x264.YIFY.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy (2014)" tvg-logo="https://image.tmdb.org/t/p/original//r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg" group-title="Marvel Collection",Guardians of the Galaxy
 http://167.114.174.132:9092/movies/Batch219/Guardians%20of%20the%20Galaxy%20%282014%29/Guardians%20of%20the%20Galaxy%20%282014%29.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Avengers: Age of Ultron (2015)" tvg-logo="https://image.tmdb.org/t/p/original//4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg" group-title="Marvel Collection",Avengers: Age of Ultron
 https://tartarus.feralhosting.com/firepig/JP/MOVIES/Avengers.Age.of.Ultron.2015.1080p.BluRay.x264.YIFY.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Ant-Man (2015)" tvg-logo="https://image.tmdb.org/t/p/original//rS97hUJ1otKTTripGwQ0ujbuIri.jpg" group-title="Marvel Collection",Ant-Man
 https://archive.org/download/xxdutyxx_20170921/Ant-Man.2015.720p.BRRip.x264.AAC-ETRG.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Captain America: Civil War (2016)" tvg-logo="https://image.tmdb.org/t/p/original//rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg" group-title="Marvel Collection",Captain America: Civil War
 https://archive.org/download/xxdutyxx_20170921/Captain.America.Civil.War.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Doctor Strange (2016)" tvg-logo="https://image.tmdb.org/t/p/original//uGBVj3bEbCoZbDjjl9wTxcygko1.jpg" group-title="Marvel Collection",Doctor Strange
 http://167.114.174.132:9092/movies/Batch220/Doctor%20Strange%20%282016%29%20%5BYTS.AG%5D/Doctor.Strange.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy Vol. 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/original//y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg" group-title="Marvel Collection",Guardians of the Galaxy Vol. 2
 https://main.luii-index.tech/1:/Guardians.of.the.Galaxy.Vol.2.2017.1080p.BluRay.x265-RARBG/Guardians.of.the.Galaxy.Vol.2.2017.1080p.BluRay.x265-RARBG.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Homecoming (2017)" tvg-logo="https://image.tmdb.org/t/p/original//c24sv2weTHPsmDa7jEMN0m2P3RT.jpg" group-title="Marvel Collection",Spider-Man: Homecoming
 https://tartarus.feralhosting.com/firepig/JP/MOVIES/Spider-Man.Homecoming.2017.1080p.BRRip.6CH.MkvCage.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Thor: Ragnarok (2017)" tvg-logo="https://image.tmdb.org/t/p/original//rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg" group-title="Marvel Collection",Thor: Ragnarok
 https://tartarus.feralhosting.com/firepig/JP/MOVIES/Thor.Ragnarok.2017.1080p.WEB-DL.X264.AC3-EVO/Thor.Ragnarok.2017.1080p.WEB-DL.X264.AC3-EVO.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Black Panther (2018)" tvg-logo="https://image.tmdb.org/t/p/original//uxzzxijgPIY7slzFvMotPv8wjKA.jpg" group-title="Marvel Collection",Black Panther
 http://media.xenialbb.net/Store/Hollywood/2018/Black%20Panther/Black.Panther.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Avengers: Infinity War (2018)" tvg-logo="https://image.tmdb.org/t/p/original//7WsyChQLEftFiDOVTGkv3hFpyyt.jpg" group-title="Marvel Collection",Avengers: Infinity War
 http://media.xenialbb.net/Store/Hollywood/2018/Avengers:%20Infinity%20War/Avengers.Infinity.War.2018.1080p.BRRip.X264.AC3-EVO.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Ant-Man and the Wasp (2018)" tvg-logo="https://image.tmdb.org/t/p/original//41imUCjSKoBjPUrfeCqib8KAvHS.jpg" group-title="Marvel Collection",Ant-Man and the Wasp
 http://media.xenialbb.net/Store/Hollywood/2018/Ant-Man%20and%20the%20Wasp/Ant-Man.and.the.Wasp.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Captain Marvel (2019)" tvg-logo="https://image.tmdb.org/t/p/original//AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg" group-title="Marvel Collection",Captain Marvel
 http://www.netathomebd.com/Data/disk2/ftpdata02/Hasan_Movies/English%20Movies/Captain%20Marvel%20%282019%29/Captain%20Marvel%20%282019%29.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Avengers: Endgame (2019)" tvg-logo="https://image.tmdb.org/t/p/original//or06FN3Dka5tukK1e9sl16pB3iy.jpg" group-title="Marvel Collection",Avengers: Endgame
 http://163.172.97.48/_movies/Avengers%20Endgame%20(2019)%20%5bWEBRip%5d%20%5b1080p%5d%20%5bYTS.LT%5d/Avengers.Endgame.2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Far from Home (2019)" tvg-logo="https://image.tmdb.org/t/p/original//4q2NNj4S5dG2RLF9CpXsej7yXl.jpg" group-title="Marvel Collection",Spider-Man: Far from Home
 http://dogjdw.ipdisk.co.kr/public/VOL1/public/movie/2019/%EC%8A%A4%ED%8C%8C%EC%9D%B4%EB%8D%94%EB%A7%A8%20-%20%ED%8C%8C%20%ED%94%84%EB%A1%AC%20%ED%99%88/Spider-Man%20Far%20from%20Home%202019%201080p%20BluRay%20x264%206CH%20ESubs%20-%20MkvHub.Com.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Black Widow (2021)" tvg-logo="https://image.tmdb.org/t/p/original//qAZ0pzat24kLdO3o8ejmbLxyOac.jpg" group-title="Marvel Collection",Black Widow
 http://2cintz.net/movies/Black%20Widow%20(2021)/Black%20widow.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Eternals (2022)" tvg-logo="https://image.tmdb.org/t/p/original//b6qUu00iIIkXX13szFy7d0CyNcg.jpg" group-title="Marvel Collection",Eternals
 http://167.86.72.208/incoming/Movies/Eternals.2021.IMAX.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-CMRG%5bTGx%5d/Eternals.2021.IMAX.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-CMRG.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Shang-Chi and the Legend of the Ten Rings (2021)" tvg-logo="https://image.tmdb.org/t/p/original//1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg" group-title="Marvel Collection",Shang-Chi and the Legend of the Ten Rings
 http://66.26.148.126/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021.BDRip.XviD.AC3-EVO/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021.BDRip.XviD.AC3-EVO.avi
 
 
+group-title="MOVIES"
 
 #EXTINF:-1 tvg-id="" tvg-name="Boo! A Madea Halloween (2016)" tvg-logo="https://image.tmdb.org/t/p/original//eq1jD9QwhrZCFeaT1BudIsKzlwp.jpg" group-title="Movies",Boo! A Madea Halloween 
 http://167.114.174.132:9092/movies/BATCH217/Boo%21.A.Madea.Halloween.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="The Purge: Election Year (2016)" tvg-logo="https://image.tmdb.org/t/p/original//ubLbY97m8lYJ3Fykh7nfiwB5eth.jpg" group-title="Movies",The Purge: Election Year
 http://167.114.174.132:9092/movies/Batch206/The.Purge.Election.Year.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Independence Day: Resurgence (2016)" tvg-logo="https://image.tmdb.org/t/p/original//jzpvh0Ic7jL9GX4NLE1Tx2GUCrN.jpg" group-title="Movies",Independence Day: Resurgence
 http://167.114.174.132:9092/movies/Batch207/Independence.Day.Resurgence.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Don't Breathe (2016)" tvg-logo="https://image.tmdb.org/t/p/original//kkUMGON2uFRlxI3zIMFdjqARnbb.jpg" group-title="Movies",Don't Breathe
 http://167.114.174.132:9092/movies/Batch211/Dont.Breathe.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Jason Bourne (2016)" tvg-logo="https://image.tmdb.org/t/p/original//xA7N41glw17MBQtcWSm2eBlBRuG.jpg" group-title="Movies",Jason Bourne
 http://167.114.174.132:9092/movies/Batch211/Jason.Bourne.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Sully (2016)" tvg-logo="https://image.tmdb.org/t/p/original//5L29r3uwDe49XDMaK2xDkDht9t0.jpg" group-title="Movies",Sully
 http://167.114.174.132:9092/movies/Batch212/Sully.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="The Magnificent Seven (2016)" tvg-logo="https://image.tmdb.org/t/p/original//ezcS78TIjgr85pVdaPDd2rSPVNs.jpg" group-title="Movies",The Magnificent Seven
 http://167.114.174.132:9092/movies/Batch213/The.Magnificent.Seven.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="47 Ronin (2013)" tvg-logo="https://image.tmdb.org/t/p/original//xDHnmcroujCRG0ysYQaiswjbyHd.jpg" group-title="Movies",47 Ronin 
 http://167.114.174.132:9092/movies/Batch219/47%20Ronin%20%282013%29/47%20Ronin%20%282013%29.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dawn of the Planet of the Apes (2014)" tvg-logo="https://image.tmdb.org/t/p/original//ie14Sm0hRI5f7Te2KIfU64NyCPr.jpg" group-title="Movies",Dawn of the Planet of the Apes 
 http://167.114.174.132:9092/movies/Batch219/Dawn%20of%20the%20Planet%20of%20the%20Apes%20%282014%29/Dawn%20of%20the%20Planet%20of%20the%20Apes%20%282014%29.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Jack Reacher: Never Go Back (2016)" tvg-logo="https://image.tmdb.org/t/p/original//wxLUQ1pIms3HAlVGYvEG9zg2kDs.jpg" group-title="Movies",Jack Reacher: Never Go Back 
 http://167.114.174.132:9092/movies/BATCH217/Jack.Reacher.Never.Go.Back.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Divergent (2014)" tvg-logo="https://image.tmdb.org/t/p/original//aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg" group-title="Movies",Divergent
 http://167.114.174.132:9092/movies/Batch219/Divergent%20%282014%29/Divergent%20%282014%29.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Edge of Tomorrow (2014)" tvg-logo="https://image.tmdb.org/t/p/original//uUHvlkLavotfGsNtosDy8ShsIYF.jpg" group-title="Movies",Edge of Tomorrow
 http://167.114.174.132:9092/movies/Batch219/Edge%20of%20Tomorrow%20%282014%29/Edge%20of%20Tomorrow%20%282014%29.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Furious 7 (2015)" tvg-logo="https://image.tmdb.org/t/p/original//ktofZ9Htrjiy0P6LEowsDaxd3Ri.jpg" group-title="Movies",Furious 7
 http://167.114.174.132:9092/movies/Batch219/Furious%207%20%282015%29/Furious%207%20%282015%29.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="John Wick (2014)" tvg-logo="https://image.tmdb.org/t/p/original//fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg" group-title="Movies",John Wick
 http://167.114.174.132:9092/movies/Batch219/JhnWck124/JhnWck124.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Sleepless (2017)" tvg-logo="https://image.tmdb.org/t/p/original//M7SUK85sKjaStg4TKhlAVyGlz3.jpg" group-title="Movies",Sleepless
 http://167.114.174.132:9092/movies/Batch229/Sleepless.2017.720p.BluRay.x264-%5BYTS.AG%5D.mp4
 
@@ -204,19 +275,14 @@ https://tartarus.feralhosting.com/firepig/JP/Assassins%20Creed%202016%201080p%20
 #EXTINF:-1 tvg-id="" tvg-name="Venom (2018)" tvg-logo="https://image.tmdb.org/t/p/original//bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg" group-title="Movies",Venom
 http://rmeyer.comelitdns.com/Movies/Venom%20(2018)%20%5bBluRay%5d%20%5b1080p%5d%20%5bYTS.AM%5d/Venom.2018.1080p.BluRay.x264-%5bYTS.AM%5d.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Soul (2020)" tvg-logo="https://image.tmdb.org/t/p/original//qPsZyyPmocFO70AOs1agd2UikfC.jpg" group-title="Movies",Soul
-https://www.realtv.id/tv/Box%20Office%20Anak%202020-2021/Soul%20%282020%29/Soul.mkv
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="The Five Heartbeats (1991)" tvg-logo="https://image.tmdb.org/t/p/original//mmNKtRPFVfyUKCe8e89pGkeBlRK.jpg" group-title="Movies",The Five Heartbeats
 http://73.82.182.197/Movies/The.Five.Heartbeats.1991.1080p.BRRip.H264.AAC-RBG.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club (1999)" tvg-logo="https://image.tmdb.org/t/p/original//pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg" group-title="Movies",Fight Club
 hhttp://rmeyer.comelitdns.com/Movies/Fight%20Club%20(1999)%20%5b1080p%5d/Fight.Club.10th.Anniversary.Edition.1999.1080p.BrRip.x264.YIFY.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="GoodFellas (1990)" tvg-logo="https://image.tmdb.org/t/p/original//6QMSLvU5ziIL2T6VrkaKzN2YkxK.jpg" group-title="Movies",GoodFellas
-http://98.164.143.44/Movies/Goodfellas%20(1990)/Goodfellas.1990.720p.BrRip.264.YIFY.mp
+http://98.164.143.44/Movies/Goodfellas%20(1990)/Goodfellas.1990.720p.BrRip.264.YIFY.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Any Given Sunday (1999)" tvg-logo="https://flxt.tmsimg.com/assets/p24517_p_v13_an.jpg" group-title="Movies",Any Given Sunday 
 http://wnpgmb1204w-ds01-79-14.dynamic.bellmts.net/sync/stasiuk/movies/Any%20Given%20Sunday%20(1999ny%20Given%20Sunday%20(1999).mp4
