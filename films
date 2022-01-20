@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="Eternals (2022)" tvg-logo="https://image.tmdb.org/t/p/original//b6qUu00iIIkXX13szFy7d0CyNcg.jpg" group-title="New Movies",Eternals
 http://167.86.72.208/incoming/Movies/Eternals.2021.1080p.WEBRip.DDP5.1.Atmos.x264-PRGON/Eternals.2021.1080p.WEBRip.DDP5.1.Atmos.x264-PRGON.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ray Donovan: The Movie (2022)" tvg-logo="https://image.tmdb.org/t/p/original//5sw1EvOeXMGRZGWr18R4EiZs036.jpg" group-title="New Mo,Ray Donovan: The Movie
+#EXTINF:-1 tvg-id="" tvg-name="Ray Donovan: The Movie (2022)" tvg-logo="https://image.tmdb.org/t/p/original//5sw1EvOeXMGRZGWr18R4EiZs036.jpg" group-title="New Movies,Ray Donovan: The Movie
 http://192.64.86.228/Ray%20Donovan%20The%20Movie%20(2022)/Ray.Donovan.The.Movie.2022.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Matrix Resurrections (2021)" tvg-logo="https://image.tmdb.org/t/p/original//8c4a8kE7PizaGQQnditMmI1xbRp.jpg" group-title="New Movies",The Matrix Resurrections
 http://jdlexportgh.com/matrix/The.Matrix.4.Resurrections.2021.1080p.WEBRip.x264-RARBG.mp4
@@ -203,31 +203,31 @@ https://www.realtv.id/tv/Box%20Office%20Anak%202020-2021/Soul%20%282020%29/Soul.
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="The Five Heartbeats (1991)" tvg-logo="https://image.tmdb.org/t/p/original//mmNKtRPFVfyUKCe8e89pGkeBlRK.jpg" group-title="Old Movies",The Five Heartbeats
+#EXTINF:-1 tvg-id="" tvg-name="The Five Heartbeats (1991)" tvg-logo="https://image.tmdb.org/t/p/original//mmNKtRPFVfyUKCe8e89pGkeBlRK.jpg" group-title="Movies",The Five Heartbeats
 http://73.82.182.197/Movies/The.Five.Heartbeats.1991.1080p.BRRip.H264.AAC-RBG.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fight Club (1999)" tvg-logo="https://image.tmdb.org/t/p/original//pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg" group-title="Old Movies",Fight Club
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club (1999)" tvg-logo="https://image.tmdb.org/t/p/original//pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg" group-title="Movies",Fight Club
 hhttp://rmeyer.comelitdns.com/Movies/Fight%20Club%20(1999)%20%5b1080p%5d/Fight.Club.10th.Anniversary.Edition.1999.1080p.BrRip.x264.YIFY.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="GoodFellas (1990)" tvg-logo="https://image.tmdb.org/t/p/original//6QMSLvU5ziIL2T6VrkaKzN2YkxK.jpg" group-title="Old Movies",GoodFellas
+#EXTINF:-1 tvg-id="" tvg-name="GoodFellas (1990)" tvg-logo="https://image.tmdb.org/t/p/original//6QMSLvU5ziIL2T6VrkaKzN2YkxK.jpg" group-title="Movies",GoodFellas
 http://98.164.143.44/Movies/Goodfellas%20(1990)/Goodfellas.1990.720p.BrRip.264.YIFY.mp
 
-#EXTINF:-1 tvg-id="" tvg-name="Any Given Sunday (1999)" tvg-logo="https://flxt.tmsimg.com/assets/p24517_p_v13_an.jpg" group-title="Old Movies",Any Given Sunday 
+#EXTINF:-1 tvg-id="" tvg-name="Any Given Sunday (1999)" tvg-logo="https://flxt.tmsimg.com/assets/p24517_p_v13_an.jpg" group-title="Movies",Any Given Sunday 
 http://wnpgmb1204w-ds01-79-14.dynamic.bellmts.net/sync/stasiuk/movies/Any%20Given%20Sunday%20(1999ny%20Given%20Sunday%20(1999).mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible (1996)" tvg-logo="https://image.tmdb.org/t/p/original//lirMXnE7NoVLDr3qeqf48fR1mk4.jpg" group-title="Old Movies",Mission: Impossible
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible (1996)" tvg-logo="https://image.tmdb.org/t/p/original//lirMXnE7NoVLDr3qeqf48fR1mk4.jpg" group-title="Movies",Mission: Impossible
 http://tajmovie.ir/Movies/3/Mission%20impossibles/mission%20imposible%201/Mission.Impossible.1996.1080p.BluRay.x264-%5BYTS.AG%5D.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible II (2000)" tvg-logo="https://image.tmdb.org/t/p/original//2njB2A85Ni7bRR7vIOrfv6TBPeC.jpg" group-title="Old Movies",Mission: Impossible II
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible II (2000)" tvg-logo="https://image.tmdb.org/t/p/original//2njB2A85Ni7bRR7vIOrfv6TBPeC.jpg" group-title="Movies",Mission: Impossible II
 http://tajmovie.ir/Movies/3/Mission%20impossibles/mission%20imposible%202/Mission.Impossible.II.2000.1080p.BluRay.x264-%5BYTS.AG%5D.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible III (2006)" tvg-logo="https://image.tmdb.org/t/p/original//5l0hS4A119jCA1A02XsFZHq1uRD.jpg" group-title="Old Movies",Mission: Impossible III
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible III (2006)" tvg-logo="https://image.tmdb.org/t/p/original//5l0hS4A119jCA1A02XsFZHq1uRD.jpg" group-title="Movies",Mission: Impossible III
 http://tajmovie.ir/Movies/3/Mission%20impossibles/mission%20imposible%203/Mission.Impossible.III.2006.1080p.BluRay.x264-%5BYTS.AG%5D.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible - Ghost Protocol (2011)" tvg-logo="https://image.tmdb.org/t/p/original//7GCKNRbzcA4rJXAKoE8KS9IDnZP.jpg" group-title="Old Movies",Mission: Impossible - Ghost Protocol
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible - Ghost Protocol (2011)" tvg-logo="https://image.tmdb.org/t/p/original//7GCKNRbzcA4rJXAKoE8KS9IDnZP.jpg" group-title="Movies",Mission: Impossible - Ghost Protocol
 http://tajmovie.ir/Movies/3/Mission%20impossibles/mission%20imposible%204/Mission.Impossible.Ghost.Protocol.2011.1080p.BrRip.x264.YIFY.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible - Rogue Nation (2015)" tvg-logo="https://image.tmdb.org/t/p/original//fRJLXQBHK2wyznK5yZbO7vmsuVK.jpg" group-title="Old Movies",Mission: Impossible - Rogue Nation 
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible - Rogue Nation (2015)" tvg-logo="https://image.tmdb.org/t/p/original//fRJLXQBHK2wyznK5yZbO7vmsuVK.jpg" group-title="Movies",Mission: Impossible - Rogue Nation 
 http://tajmovie.ir/Movies/3/Mission%20impossibles/mission%20imposible%205/Mission.Impossible.Rogue.Nation.2015.1080p.BluRay.x264.YIFY.%5BYTS.AG%5D.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible - Fallout (2018)" tvg-logo="https://image.tmdb.org/t/p/original//AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg" group-title="Old Movies",Mission Impossible Fallout
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible - Fallout (2018)" tvg-logo="https://image.tmdb.org/t/p/original//AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg" group-title="Movies",Mission Impossible Fallout
 http://tajmovie.ir/Movies/3/Mission%20impossibles/mission%20imposible%206/Mission.Impossible.-.Fallout.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
