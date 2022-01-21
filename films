@@ -24,6 +24,9 @@ http://73.82.182.197/Movies/Wrath.of.Man.2021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dune (2021)" tvg-logo="https://image.tmdb.org/t/p/original//d5NXSklXo0qyIYkgV94XAgMIckC.jpg" group-title="New Movies",Dune
 http://219.240.14.229/web/Dune.2021.1080p.WEBRip.x264.AAC5.1-%5bYTS.MX%5d.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Infinite (2021)" tvg-logo="https://image.tmdb.org/t/p/original//niw2AKHz6XmwiRMLWaoyAOAti0G.jpg" group-title="New Movies",Infinite
+http://2uzn0dh.257.cz/Filmy/Novinky/Infinite%20(2021)%20%5b720p%5d%20%5bWEBRip%5d%20%5bYTS.MX%5d/Infinite.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="A Quiet Place (2018)" tvg-logo="https://image.tmdb.org/t/p/original//nAU74GmpUk7t5iklEp3bufwDq4n.jpg" group-title="New Movies",A Quiet Place
 http://103.199.168.2:8080/ftp/English%20Movies/A.Quiet.Place.2018.720p.BluRay.x264-%5bYTS.AM%5d.mp4
 
@@ -62,6 +65,18 @@ http://tajmovie.ir/Movies/14/A.Journal.for.Jordan/A.Journal.for.Jordan.2021.720p
 
 #EXTINF:-1 tvg-id="" tvg-name="The Tender Bar (2021)" tvg-logo="https://image.tmdb.org/t/p/original//m6Ej3F4tYTOHD26fvX1zN9bcEUg.jpg" group-title="New Movies",The Tender Bar
 http://tajmovie.ir/Movies/14/The.Tender.Bar/The.Tender.Bar.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Old Guard (2020)" tvg-logo="https://image.tmdb.org/t/p/original//cjr4NWURcVN3gW5FlHeabgBHLrY.jpg" group-title="New Movies",The Old Guard
+http://103.115.14.52/Movies/Hollywood/2020/The.Old.Guard.2020.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Army of the Dead (2021)" tvg-logo="https://image.tmdb.org/t/p/original//z8CExJekGrEThbpMXAmCFvvgoJR.jpg" group-title="New Movies",Army of the Dead
+http://103.115.14.52/Movies/Hollywood/2021/Army.Of.The.Dead.2021.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Army of Thieves (2021)" tvg-logo="https://image.tmdb.org/t/p/original//iPTZGFmPs7HsXHYxiuxGolihjOH.jpg" group-title="New Movies",Army of Thieves 
+http://109.120.203.163/lvm/action/Army.of.Thieves.2021.720p.WEBRip.800MB.x264-GalaxyRG%5bTGx%5d/Army.of.Thieves.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla: King of the Monsters (2019)" tvg-logo="https://image.tmdb.org/t/p/original//fQ40gmFM4p03tXwMxQQKh2cCBW4.jpg" group-title="New Movies",Godzilla: King of the Monsters
+http://103.115.14.52/Movies/Hollywood/2019/Godzilla.King.Of.The.Monsters.2019.720p.BluRay.x264-%5bYTS.LT%5d.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="The Commando (2022)" tvg-logo="https://image.tmdb.org/t/p/original//mvCVaas7FkRV8uvyIJl1ANdT28k.jpg" group-title="New Movies",The Commando
 http://tajmovie.ir/Movies/14/The.Commando/The.Commando.2022.720p.WEBRip.800MB.x264-GalaxyRG.mkv
@@ -134,21 +149,6 @@ http://73.82.182.197/Movies/Angel.Has.Fallen.2019.1080p.BluRay.x264-HD3D.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Black and Blue (2019)" tvg-logo="https://image.tmdb.org/t/p/original//1cSHEKYYP8Dpi4o1iBVd4U75FYt.jpg" group-title="Movies",Black and Blue
 http://73.82.182.197/Movies/Black.And.Blue.2019.1080p.BluRay.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Infinite (2021)" tvg-logo="https://image.tmdb.org/t/p/original//niw2AKHz6XmwiRMLWaoyAOAti0G.jpg" group-title="New Movies",Infinite
-http://2uzn0dh.257.cz/Filmy/Novinky/Infinite%20(2021)%20%5b720p%5d%20%5bWEBRip%5d%20%5bYTS.MX%5d/Infinite.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Old Guard (2020)" tvg-logo="https://image.tmdb.org/t/p/original//cjr4NWURcVN3gW5FlHeabgBHLrY.jpg" group-title="New Movies",The Old Guard
-http://103.115.14.52/Movies/Hollywood/2020/The.Old.Guard.2020.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Army of the Dead (2021)" tvg-logo="https://image.tmdb.org/t/p/original//z8CExJekGrEThbpMXAmCFvvgoJR.jpg" group-title="New Movies",Army of the Dead
-http://103.115.14.52/Movies/Hollywood/2021/Army.Of.The.Dead.2021.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Army of Thieves (2021)" tvg-logo="https://image.tmdb.org/t/p/original//iPTZGFmPs7HsXHYxiuxGolihjOH.jpg" group-title="New Movies",Army of Thieves 
-http://109.120.203.163/lvm/action/Army.of.Thieves.2021.720p.WEBRip.800MB.x264-GalaxyRG%5bTGx%5d/Army.of.Thieves.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla: King of the Monsters (2019)" tvg-logo="https://image.tmdb.org/t/p/original//fQ40gmFM4p03tXwMxQQKh2cCBW4.jpg" group-title="New Movies",Godzilla: King of the Monsters
-http://103.115.14.52/Movies/Hollywood/2019/Godzilla.King.Of.The.Monsters.2019.720p.BluRay.x264-%5bYTS.LT%5d.mp4
 
 
 group-title="The Fast and the Furious Collection"
