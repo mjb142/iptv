@@ -353,8 +353,14 @@ http://109.120.203.163/lvm/action/Deadpool%20(2016)%20%5bYTS.AG%5d/Deadpool.2016
 #EXTINF:-1 tvg-id="" tvg-name="Deadpool 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/original//to0spRl1CMDvyUbOnbb4fTk3VAd.jpg" group-title="Movies",Deadpool 2
 Deadpool 2 - http://109.120.203.163/lvm/action/Deadpool.2.2018.Super.Duper.Cut.UNRATED.PROPER.720p.BluRay.H264.AAC-RARBG/Deadpool.2.2018.Super.Duper.Cut.UNRATED.PROPER.720p.BluRay.H264.AAC-RARBG.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla (2014)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/4146/TWj7zMJfa2XeABsiggWw7OYrmwRM9EuoGLDdezhz.webp" group-title="Movies",Godzilla
+http://flixhub.net/Data/Disk1/Hollywood/2014//Godzilla%20(2014)/Godzilla%20(2014).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Kong: Skull Island (2017)" tvg-logo="https://image.tmdb.org/t/p/original//r2517Vz9EhDhj88qwbDVj8DCRZN.jpg" group-title="Movies",Kong: Skull Island
 http://103.199.168.2:8080/ftp/English%20Movies/Kong%20Skull%20Island%202017%20720p%20BRRip%20850%20MB%20-%20iExTV.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla: King of the Monsters (2019)" tvg-logo="enter cover url here" group-title="Movies",Godzilla: King of the Monsters
+http://103.115.14.52/Movies/Hollywood/2019/Godzilla.King.Of.The.Monsters.2019.720p.BluRay.x264-%5bYTS.LT%5d.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Ride Along 2 (2016)" tvg-logo="https://image.tmdb.org/t/p/original//2433Vt8xuDnAIDAJTNx6DEtf9Qb.jpg" group-title="Movies",Ride Along 2
 http://103.199.168.2:8080/ftp/English%20Movies/Ride.Along.2.2016.1080p.BluRay.x264-%5bYTS.AG%5d.mp4
