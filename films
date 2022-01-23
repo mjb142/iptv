@@ -491,6 +491,15 @@ http://dhakaftp.com/Data/Disk1/Hollywood/2011_2015/Rise%20of%20the%20Planet%20of
 #EXTINF:-1 tvg-id="" tvg-name="War for the Planet of the Apes (2017)" tvg-logo="https://image.tmdb.org/t/p/original//ijQHiImv16vNSeZQsmih04kwn0C.jpg" group-title="Movies",War for the Planet of the Apes
 http://103.115.14.52/Movies/Hollywood/2017/War.For.The.Planet.Of.The.Apes.2017.720p.BluRay.x264-%5bYTS.AG%5d.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Batman Begins (2005)" tvg-logo="https://image.tmdb.org/t/p/original//8RW2runSEc34IwKN2D1aPcJd2UL.jpg" group-title="Movies",Batman Begins
+http://flixhub.net/Data/Disk1/Hollywood/2005//Batman%20Begins%20(2005)/Batman%20Begins%20(2005).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Dark Knight (2008)" tvg-logo="https://image.tmdb.org/t/p/original//qJ2tW6WMUDux911r6m7haRef0WH.jpg" group-title="Movies",The Dark Knight
+http://flixhub.net/Data/Disk1/Hollywood/2008//The%20Dark%20Knight%20(2008)/The%20Dark%20Knight%20(2008).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Dark Knight Rises (2012)" tvg-logo="https://image.tmdb.org/t/p/original//85cWkCVftiVs0BVey6pxX8uNmLt.jpg" group-title="Movies",The Dark Knight Rises
+The Dark Knight Rises (2012) - http://flixhub.net/Data/Disk1/Hollywood/2012/The%20Dark%20Knight%20Rises%20%282012%29/The%20Dark%20Knight%20Rises%202012.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Wonder Woman (2017)" tvg-logo="https://image.tmdb.org/t/p/original//imekS7f1OuHyUP2LAiTEM0zBzUz.jpg" group-title="Movies",Wonder Woman
 http://103.115.14.52/Movies/Hollywood/2017/Wonder.Woman.2017.720p.BluRay.x264-%5bYTS.AG%5d.mp4
 
