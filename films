@@ -359,7 +359,7 @@ http://flixhub.net/Data/Disk1/Hollywood/2014//Godzilla%20(2014)/Godzilla%20(2014
 #EXTINF:-1 tvg-id="" tvg-name="Kong: Skull Island (2017)" tvg-logo="https://image.tmdb.org/t/p/original//r2517Vz9EhDhj88qwbDVj8DCRZN.jpg" group-title="Movies",Kong: Skull Island
 http://103.199.168.2:8080/ftp/English%20Movies/Kong%20Skull%20Island%202017%20720p%20BRRip%20850%20MB%20-%20iExTV.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla: King of the Monsters (2019)" tvg-logo="enter cover url here" group-title="Movies",Godzilla: King of the Monsters
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla: King of the Monsters (2019)" tvg-logo="https://image.tmdb.org/t/p/original//fQ40gmFM4p03tXwMxQQKh2cCBW4.jpg" group-title="Movies",Godzilla: King of the Monsters
 http://103.115.14.52/Movies/Hollywood/2019/Godzilla.King.Of.The.Monsters.2019.720p.BluRay.x264-%5bYTS.LT%5d.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Ride Along 2 (2016)" tvg-logo="https://image.tmdb.org/t/p/original//2433Vt8xuDnAIDAJTNx6DEtf9Qb.jpg" group-title="Movies",Ride Along 2
