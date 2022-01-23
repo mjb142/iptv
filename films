@@ -1,8 +1,5 @@
 group-title="New Movies"
 
-#EXTINF:-1 tvg-id="" tvg-name="Clean (2022)" tvg-logo="https://image.tmdb.org/t/p/original//qhBN4nkuTEgxfzcxKk9KV1sojmL.jpg" group-title=" New Movies",Clean
-http://flixhub.net/Data/Disk4/ENGLISH_MOVIES/2022/Clean%20(2022)/Clean.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264-Telly.mkv
-
 #EXTINF:-1 tvg-id="" tvg-name="Eternals (2022)" tvg-logo="https://image.tmdb.org/t/p/original//b6qUu00iIIkXX13szFy7d0CyNcg.jpg" group-title="New Movies",Eternals
 http://167.86.72.208/incoming/Movies/Eternals.2021.1080p.WEBRip.DDP5.1.Atmos.x264-PRGON/Eternals.2021.1080p.WEBRip.DDP5.1.Atmos.x264-PRGON.mkv
 
