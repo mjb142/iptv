@@ -712,13 +712,13 @@ http://flixhub.net/Data/Disk5/2019/Fast%20%26%20Furious%20Presents%3A%20Hobbs%20
 http://abcmoviesbd.com/Data/Movies/English/Disk-1/2013/2%20Guns%20%282013%29/2%20Guns%20%282013%29%20BRRip.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Pulp Fiction (1994)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg" group-title="Movies",Pulp Fiction
-http://103.81.104.98/DATA/NAS1/Movies/English/1995-/Pulp%20Fiction%20%281994%29/Pulp.Fiction.1994.720p.BRRip.AAC.x264-PiLLS.mkv
+http://103.205.233.70/Data/Disk1/Hollywood/1900_1999/Pulp%20Fiction%20%281994%29/Pulp%20Fiction%20%281994%29%20%5B1080p%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Brown (1997)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ewbLUXvm4riZL0aepy90o0vMesn.jpg" group-title="Movies",Jackie Brown
-http://103.81.104.98/DATA/NAS1/Movies/English/1997/Jackie%20Brown%20%281997%29/Jackie.Brown.1997.720p.BrRip.x264.YIFY.mkv
+http://103.205.233.70/Data/Disk1/Hollywood/1900_1999/Jackie%20Brown%20%281997%29/Jackie_Brown_1997_1080p_Bluray_10bit_x265_AAC-HazMatt.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Face/Off (1997)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aYZDYdiMym5xEkSs4BrJMXFdZ9g.jpg" group-title="Movies",Face/Off (1997)
-Face Off (1997) - http://103.205.233.70/Data/Disk1/Hollywood/1900_1999/Face%20Off%20%281997%29/Face.Off.1997.1080p.BrRip.x264.YIFY.mp4
+http://103.205.233.70/Data/Disk1/Hollywood/1900_1999/Face%20Off%20%281997%29/Face.Off.1997.1080p.BrRip.x264.YIFY.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Equal Standard (2020)" tvg-logo="https://image.tmdb.org/t/p/original//UwKGzJjKBdPadVAsC7Bucy188h.jpg" group-title="New Movies",Equal Standard
 http://flixhub.net/Data/Disk5/2020/Equal%20Standard%20%282020%29/Equal.Standard.2020.HDRip.XviD.AC3.LLG.mp4
@@ -730,16 +730,16 @@ http://103.205.233.70/Data/Disk1/Hollywood/1900_1999/Beverly%20Hills%20Cop%20%28
 http://103.205.233.70/Data/Disk1/Hollywood/1900_1999/Beverly%20Hills%20Cop%20II%20%281987%29/Beverly%20Hills%20Cop%20II%201987%20BluRay%2010Bit%201080p%20DD5_1%20H265-d3g.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Alien (1979)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg" group-title="Alien & Predator Box",Alien
-http://103.81.104.98/DATA/NAS1/Movie-BOXSet/Alien%20%26%20Predator%20Box/Alien%201979/Alien%201979.mp4
+http://167.114.174.132:9092/movies/batch233/Alien%20Director%27s%20Cut%201979.720p.BrRip.x264.YIFY.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Aliens (1986)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qzm3nKhyc9DEiJJ2EBccIHpYM3W.jpg" group-title="Alien & Predator Box",Aliens
-http://103.81.104.98/DATA/NAS1/Movie-BOXSet/Alien%20%26%20Predator%20Box/Aliens%20Special%20Edition%201986/Aliens%20Special%20Edition%201986.mp4
+http://103.205.233.70/Data/Disk1/Hollywood/1900_1999/Aliens%20%281986%29/Aliens.Directors.Cut.1986.1080p.BRrip.x264.GAZ.YIFY.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Alien 3 (1992)" tvg-logo="https://image.tmdb.org/t/p/original//eEWPeAUo7hQxOwTk0uSg1xpzCut.jpg" group-title="Alien & Predator Box",Alien 3
-http://103.81.104.98/DATA/NAS1/Movie-BOXSet/Alien%20%26%20Predator%20Box/Alien%203%20Special%20Edition%201992/Alien%203%20Special%20Edition%201992.mp4
+http://103.205.233.70/Data/Disk1/Hollywood/1900_1999/Alien%203%20Special%20Edition%20%281992%29/Alien%203%20Special%20Edition%201992.720p.BrRip.x264.YIFY.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Alien: Resurrection (1997)" tvg-logo="https://image.tmdb.org/t/p/original//13162IOGtPQaZgnnY3raCJbUsW5.jpg" group-title="Alien & Predator Box",Alien: Resurrection
-http://103.81.104.98/DATA/NAS1/Movie-BOXSet/Alien%20%26%20Predator%20Box/Alien%20Resurrection%20Special%20Edition%201997/Alien%20Resurrection%20%201997.mp4
+http://167.114.174.132:9092/movies/batch233/Alien%204%20Resurrection%20Special%20Edition%201997.720p.BrRip.x264.YIFY.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Prometheus (2012)" tvg-logo="https://image.tmdb.org/t/p/original//m7nZCtHJyDLncBUarfM5h5mrppx.jpg" group-title="Alien & Predator Box",Prometheus
 http://103.205.233.70/Data/Disk1/Hollywood/2011_2015/Prometheus%20%282012%29/Prometheus_2012__DVDrip__BDPLEX.mkv
@@ -748,13 +748,13 @@ http://103.205.233.70/Data/Disk1/Hollywood/2011_2015/Prometheus%20%282012%29/Pro
 http://103.205.233.70/Data/Disk5/Hollywood/English_Movies_2017/Alien%20Covenant%20%282017%29/Alien%20Covenant%20%282017%29%20%5B1080p%5D%20BluRay.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Predator (1987)" tvg-logo="https://image.tmdb.org/t/p/original//iieEddHTv5zzTyr7OnN5ULOu7bI.jpg" group-title="Alien & Predator Box",Predator
-http://103.81.104.98/DATA/NAS1/Movie-BOXSet/Alien%20%26%20Predator%20Box/Predator%201987/Predator%201987.mkv
+http://167.114.174.132:9092/movies/Batch231/Predator.1987.BrRip.720p.x264.YIFY.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Predator 2 (1990)" tvg-logo="https://image.tmdb.org/t/p/original//7OAAsKvYwEq23ppBSq8NfJ0iUuo.jpg" group-title="Alien & Predator Box",Predator 2
-http://103.81.104.98/DATA/NAS1/Movie-BOXSet/Alien%20%26%20Predator%20Box/Predator%202%201990/Predator%202%201990.avi
+http://167.114.174.132:9092/movies/Batch231/Predator.2.1990.720p.BrRip.x264.bitloks.YIFY.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Predators (2010)" tvg-logo="https://image.tmdb.org/t/p/original//gsnUhWMYLSD8VZS7nrMT9mj9BYr.jpg" group-title="Alien & Predator Box",Predators
-http://103.81.104.98/DATA/NAS1/Movie-BOXSet/Alien%20%26%20Predator%20Box/Preditors%202010/Preditors%202010.mkv
+http://103.205.233.70/Data/Disk1/Hollywood/2006_2010/Predators%20%282010%29/Predators_2010__BRrip__BDPLEX.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="The Predator (2018)" tvg-logo="https://image.tmdb.org/t/p/original//wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg" group-title="Alien & Predator Box",The Predator
 http://103.205.233.70/Data/Disk5/Hollywood/English_Movies_2018/The%20Predator%20%282018%29/The%20Predator%20%282018%29%20%5B1080p%5D%20WEBRip.mp4
