@@ -767,3 +767,18 @@ http://103.205.233.70/Data/Disk1/Hollywood/2000_2005/Alien%20vs%20Predator%20%28
 
 #EXTINF:-1 tvg-id="" tvg-name="Aliens vs Predator: Requiem (2007)" tvg-logo="https://image.tmdb.org/t/p/original//jCyJN1vj8jqJJ0vNw4hDH2KlySO.jpg" group-title="Alien & Predator Box",Aliens vs Predator: Requiem
 http://103.205.233.70/Data/Disk1/Hollywood/2006_2010/Aliens%20vs%20Predator%20Requiem%20%282007%29/Aliens.vs.Predator.Requiem.2007.BluRay.1080p.x264.AAC.ShAaNiG_BDPLEX.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Untouchables (1987)" tvg-logo="https://image.tmdb.org/t/p/original//8BquGK22zCcsmBWiaIakaaPpSZb.jpg" group-title="Movies",The Untouchables
+http://176.9.83.151/English%20Movies/The.Untouchables.1987.720p.BluRay.999MB.HQ.x265.10bit-GalaxyRG.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Usual Suspects (1995)" tvg-logo="https://image.tmdb.org/t/p/original//bUPmtQzrRhzqYySeiMpv7GurAfm.jpg" group-title="Movies",The Usual Suspects
+http://176.9.83.151/English%20Movies/The.Usual.Suspects.1995.720p.BluRay.x264.PaHe.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Full Metal Jacket (1987)" tvg-logo="https://image.tmdb.org/t/p/original//kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg" group-title="Movies",Full Metal Jacket
+http://37.187.21.37:8080/Full%20Metal%20Jacket%20%281987%29%20%5BBluRay%5D%20%5B1080p%5D%20%5BYTS.AM%5D/Full.Metal.Jacket.1987.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Shooter (2007)" tvg-logo="https://image.tmdb.org/t/p/original//tyRP8JedrDkPPvH3JxKYsdP2esu.jpg" group-title="Movies",Shooter
+http://162.12.215.254/Data/Movies/Hollywood/Old%20Movie/Shooter%202007%20720p%20BluRay%20x264%20900MB/Shooter%202007%20720p%20BluRay%20x264%20900MB.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Ferris Buellers Day Off (1986)" tvg-logo="https://image.tmdb.org/t/p/original//9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg" group-title="Movies",Ferris Buellers Day Off
+http://109.120.203.163/web/blyad.club/lvm/comedy/Ferris%20Buellers%20Day%20Off%20(1986)/Ferris.Buellers.Day.Off.1986.Bluray.720p.x264.YIFY.mp4
