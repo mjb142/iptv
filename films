@@ -30,6 +30,9 @@ http://219.240.14.229/web/Dune.2021.1080p.WEBRip.x264.AAC5.1-%5bYTS.MX%5d.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Infinite (2021)" tvg-logo="https://image.tmdb.org/t/p/original//niw2AKHz6XmwiRMLWaoyAOAti0G.jpg" group-title="New Movies",Infinite
 http://2uzn0dh.257.cz/Filmy/Novinky/Infinite%20(2021)%20%5b720p%5d%20%5bWEBRip%5d%20%5bYTS.MX%5d/Infinite.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Old (2021)" tvg-logo="https://image.tmdb.org/t/p/original//vclShucpUmPhdAOmKgf3B3Z4POD.jpg" group-title="New Movies",Old
+http://65.21.206.84/Movies/1080p/Old%20%282021%29%20%5B1080p%5D%20%5BWEBRip%5D%20%5B5.1%5D%20%5BYTS.MX%5D/Old.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="A Quiet Place (2018)" tvg-logo="https://image.tmdb.org/t/p/original//nAU74GmpUk7t5iklEp3bufwDq4n.jpg" group-title="New Movies",A Quiet Place
 http://103.199.168.2:8080/ftp/English%20Movies/A.Quiet.Place.2018.720p.BluRay.x264-%5bYTS.AM%5d.mp4
 
@@ -126,6 +129,9 @@ http://flixhub.net/Data/Disk4/ENGLISH_MOVIES/2021/Mortal%20Kombat%20%282021%29/M
 #EXTINF:-1 tvg-id="" tvg-name="National Champions (2021)" tvg-logo="https://image.tmdb.org/t/p/original//gRj82OOTJ8bmtUJDap9tNnswF0N.jpg" group-title="New Movies",National Champions
 http://flixhub.net/Data/Disk4/ENGLISH_MOVIES/2021/National%20Champions%20%282021%29/National.Champions.2021.1080p.WEBRip.x264-RARBG.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Don't Look Up (2021)" tvg-logo="https://image.tmdb.org/t/p/original//th4E1yqsE8DGpAseLiUrI60Hf8V.jpg" group-title="New Movies",Don't Look Up
+http://103.121.39.254/media/disk1/Recent%20English%20Movies/2021/Dont.Look.Up.2021.1080p.WEBRip.x264%20%5bDDN%5d/Dont.Look.Up.2021.1080p.WEBRip.x264%20%5bDDN%5d.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Resident Evil Welcome to Raccoon City (2021)" tvg-logo="https://image.tmdb.org/t/p/original//hOH104kVkCJ6uPUi5tLro346SBc.jpg" group-title="New Movies",Resident Evil Welcome to Raccoon City
 http://flixhub.net/Data/Disk4/ENGLISH_MOVIES/2021/Resident%20Evil%20Welcome%20to%20Raccoon%20City%20%282021%29/Resident.Evil.Welcome.to.Raccoon.City.2021.1080p.WEBRip.x264-RARBG.mp4
 
@@ -137,6 +143,12 @@ http://73.82.182.197/Movies/Gunpowder.Milkshake.2021.1080p.WEB.h264-RUMOUR.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat Legends: Scorpion's Revenge (2020)" tvg-logo="https://image.tmdb.org/t/p/original//4VlXER3FImHeFuUjBShFamhIp9M.jpg" group-title="New Movies",Mortal Kombat Legends: Scorpion's Revenge
 http://flixhub.net/Data/Disk5/2020/Mortal%20Kombat%20Legends%3A%20Scorpion%27s%20Revenge%20%282020%29/Mortal.Kombat.Legends.Scorpions.Revenge.2020.1080p.WEB-DL.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat Legends: Battle of the Realms (2021)" tvg-logo="https://image.tmdb.org/t/p/original//ablrE8IbWcIrAxMmm4gnPn75AMS.jpg" group-title="New Movies",Mortal Kombat Legends Battle of the Realms
+http://103.121.39.254/media/disk1/Recent%20English%20Movies/2021/Mortal.Kombat.Legends.Battle.of.the.Realms.2021.1080p.WEBRip.x264%20%5bDDN%5d/Mortal.Kombat.Legends.Battle.of.the.Realms.2021.1080p.WEBRip.x264%20%5bDDN%5d.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Respect (2021)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/637833/74V55lXzfm1KTiGIkoob521nibDtydGP4IisO4OT.webp" group-title="New Movies",Respect
+http://103.121.39.254/media/disk1/Recent%20English%20Movies/2021/Respect.2021.1080p.WEBRip.x264%20%5bDDN%5d/Respect.2021.1080p.WEBRip.x264%20%5bDDN%5d.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="21 Bridges (2019)" tvg-logo="https://image.tmdb.org/t/p/original//kDlmrGZROewneCoSwPjKx6Qfown.jpg" group-title="New Movies",21 Bridges
 http://73.82.182.197/Movies/21.bridges.2019.1080p.amzn.web-dl.x265-BvS.mkv
@@ -482,6 +494,12 @@ http://103.115.14.52/Movies/Hollywood/2012/The.Expendables.2.2012.1080.BluRay.x2
 #EXTINF:-1 tvg-id="" tvg-name="Expendables 3 (2014)" tvg-logo="https://image.tmdb.org/t/p/original//6MD1qPgEdvOfPCJkA1dq0SdOz2.jpg" group-title="Movies",Expendables 3
 http://103.115.14.52/Movies/Hollywood/2014/The.Expendables.3.2014.1080p.BluRay.x264.YIFY.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Crank (2006)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/10984/RpG7A01JAVsDMx8xOLkVwgY35uEG5yE0elxJKbJZ.webp" group-title="Movies",Crank
+http://103.121.39.254/media/disk5/MOVIE%20SERIES/Crank%20Series/Crank%20(2006)%20%5b1080p%5d/Crank.2006.1080p.BrRip.x264.YIFY.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Crank: High Voltage (2009)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/10984/RpG7A01JAVsDMx8xOLkVwgY35uEG5yE0elxJKbJZ.webp" group-title="Movies",Crank High Voltage
+http://103.121.39.254/media/disk5/MOVIE%20SERIES/Crank%20Series/Crank%20High%20Voltage%20(2009)%20%5b1080p%5d/Crank.High.Voltage.2009.1080p.BrRip.x264.YIFY.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Mad Max Fury Road (2015)" tvg-logo="https://image.tmdb.org/t/p/original//8tZYtuWezp8JbcsvHYO0O46tFbo.jpg" group-title="Movies",Mad Max Fury Road
 http://103.115.14.52/Movies/Hollywood/2015/Mad.Max.Fury.Road.2015.720p(topseda).mp4
 
@@ -705,6 +723,11 @@ http://103.205.233.70/Data/Disk11/movies/animation/Batman%20The%20Long%20Hallowe
 #EXTINF:-1 tvg-id="" tvg-name="Injustice (2021)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1270668/6RPqyUX5UIgnpZ2DuZx2He6ClOGQLierwDFgAW05.webp" group-title="DC Universe Animated Original Movies",Injustice
 http://103.121.39.254/media/disk1/Recent%20English%20Movies/2021/Injustice.2021.1080p.BluRay.H264.AAC%20%5bDDN%5d/Injustice.2021.1080p.BluRay.H264.AAC%20%5bDDN%5d.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Catwoman: Hunted (2022)" tvg-logo="https://theposterdb.com/api/assets/208398/view" group-title="DC Universe Animated Original Movies",Catwoman: Hunted
+http://103.121.39.254/media/disk1/Recent%20English%20Movies/2022/Catwoman.Hunted.2022.1080p.BluRay.H264.AAC%20%5bDDN%5d/Catwoman.Hunted.2022.1080p.BluRay.H264.AAC%20%5bDDN%5d.mp4
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="The Last Boy Scout (1991)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k6IhU7Vuy9kvK3xrJRZnDd7Zh7H.jpg" group-title="Movies",The Last Boy Scout
 https://cdn.naturalbd.com/hollywood/1990-99/The.Last.Boy.Scout.1991/The.Last.Boy.Scout.1991.Bluray-1080p/The.Last.Boy.Scout.1991.Bluray-1080p.mp4.m3u8
 
@@ -782,3 +805,17 @@ http://162.12.215.254/Data/Movies/Hollywood/Old%20Movie/Shooter%202007%20720p%20
 
 #EXTINF:-1 tvg-id="" tvg-name="Ferris Buellers Day Off (1986)" tvg-logo="https://image.tmdb.org/t/p/original//9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg" group-title="Movies",Ferris Buellers Day Off
 http://109.120.203.163/web/blyad.club/lvm/comedy/Ferris%20Buellers%20Day%20Off%20(1986)/Ferris.Buellers.Day.Off.1986.Bluray.720p.x264.YIFY.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Casino Royale (2006)" tvg-logo="https://image.tmdb.org/t/p/original//ta2BX3THwYXytWuVVozaT0NsMM8.jpg" group-title="Movies",Casino Royale
+https://mops.go.ro/Casino.Royale.2006.1080p.BluRay.x264.AC3-ETRG/Casino.Royale.2006.1080p.BluRay.x264.AC3-ETRG.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Quantum of Solace (2008)" tvg-logo="https://image.tmdb.org/t/p/original//e3DXXLJHGqMx9yYpXsql1XNljmM.jpg" group-title="Movies",Quantum of Solace
+https://mops.go.ro/Quantum.of.Solace.2008.1080p.BluRay.x264.DTS-ETRG/Quantum.of.Solace.2008.1080p.BluRay.x264.DTS-ETRG.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Spectre (2015)" tvg-logo="https://image.tmdb.org/t/p/original//zj8ongFhtWNsVlfjOGo8pSr7PQg.jpg" group-title="Movies",Spectre
+https://mops.go.ro/Spectre%202015%201080p%20BluRay%20x264%20DTS-JYK/Spectre%202015%201080p%20BluRay%20x264%20DTS-JYK.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World (2015)" tvg-logo="https://image.tmdb.org/t/p/original//rhr4y79GpxQF9IsfJItRXVaoGs4.jpg" group-title="Movies",Jurassic World
+http://37.187.21.37:8080/Jurassic.World.2015.MULTI.1080p.HDLight.AC3.x264-gismo65/Jurassic.World.2015.MULTI.1080p.HDLight.AC3.x264-gismo65.mkv
+
+
