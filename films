@@ -372,7 +372,7 @@ http://109.120.203.163/lvm/action/Deadpool%20(2016)%20%5bYTS.AG%5d/Deadpool.2016
 Deadpool 2 - http://109.120.203.163/lvm/action/Deadpool.2.2018.Super.Duper.Cut.UNRATED.PROPER.720p.BluRay.H264.AAC-RARBG/Deadpool.2.2018.Super.Duper.Cut.UNRATED.PROPER.720p.BluRay.H264.AAC-RARBG.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Godzilla (2014)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/4146/TWj7zMJfa2XeABsiggWw7OYrmwRM9EuoGLDdezhz.webp" group-title="Movies",Godzilla
-http://flixhub.net/Data/Disk1/Hollywood/2014//Godzilla%20(2014)/Godzilla%20(2014).mp4
+http://103.205.233.70/Data/Disk1/Hollywood/2011_2015/Godzilla%20%282014%29/Godzilla.2014__1080p.BRrip__BDPLEX.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Kong: Skull Island (2017)" tvg-logo="https://image.tmdb.org/t/p/original//r2517Vz9EhDhj88qwbDVj8DCRZN.jpg" group-title="Movies",Kong: Skull Island
 http://103.121.39.254/media/disk1/Recent%20English%20Movies/2017/Kong.Skull.Island.2017.1080p.BluRay.H264.AAC%20%5bDDN%5d/Kong.Skull.Island.2017.1080p.BluRay.H264.AAC%20%5bDDN%5d.mp4
@@ -398,8 +398,14 @@ http://167.114.174.132:9092/movies/Batch219/47%20Ronin%20%282013%29/47%20Ronin%2
 #EXTINF:-1 tvg-id="" tvg-name="Joker (2019)" tvg-logo="https://image.tmdb.org/t/p/original//udDclJoHjfjb8Ekgsd4FDteOkCU.jpg" group-title="Movies",Joker
 http://103.115.14.52/Movies/Hollywood/2019/Joker.2019.720p.BluRay.x264-%5bYTS.LT%5d.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Rise of the Planet of the Apes (2011)" tvg-logo="https://image.tmdb.org/t/p/original//cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg" group-title="Movies",Rise of the Planet of the Apes
+http://103.205.233.70/Data/Disk1/Hollywood/2011_2015/Rise%20of%20the%20Planet%20of%20the%20Apes%20%282011%29/Rise_of_the_Planet_of_the_Apes_2011__BRrip__BDPLEX.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Dawn of the Planet of the Apes (2014)" tvg-logo="https://image.tmdb.org/t/p/original//ie14Sm0hRI5f7Te2KIfU64NyCPr.jpg" group-title="Movies",Dawn of the Planet of the Apes 
 http://167.114.174.132:9092/movies/Batch219/Dawn%20of%20the%20Planet%20of%20the%20Apes%20%282014%29/Dawn%20of%20the%20Planet%20of%20the%20Apes%20%282014%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="War for the Planet of the Apes (2017)" tvg-logo="https://image.tmdb.org/t/p/original//ijQHiImv16vNSeZQsmih04kwn0C.jpg" group-title="Movies",War for the Planet of the Apes
+http://103.115.14.52/Movies/Hollywood/2017/War.For.The.Planet.Of.The.Apes.2017.720p.BluRay.x264-%5bYTS.AG%5d.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Jack Reacher (2012)" tvg-logo="https://image.tmdb.org/t/p/original//zlyhKMi2aLk25nOHnNm43MpZMtQ.jpg" group-title="Movies",Jack Reacher        
 http://103.205.233.70/Data/Disk1/Hollywood/2011_2015/Jack%20Reacher%20%282012%29/Jack_Reacher_2012__BRrip__BDPLEX.mp4
@@ -462,13 +468,13 @@ http://103.205.233.70/Data/Disk1/Hollywood/2000_2005/Kill%20Bill%20Vol%202%20%28
 http://103.205.233.70/Data/Disk1/Hollywood/2000_2005/Lara%20Croft%20Tomb%20Raider%201%20%282001%29/Lara%20Croft%20Tomb%20Raider%201%202001.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Lara Croft: Tomb Raider - The Cradle of Life (2003)" tvg-logo="https://image.tmdb.org/t/p/original//vzWqkXbqs3EEMi3jgFpiRPgFGlG.jpg" group-title="Movies",Lara Croft: Tomb Raider - The Cradle of Life         
-http://flixhub.net/Data/Disk1/Hollywood/2003/Lara%20Croft%20Tomb%20Raider%20The%20Cradle%20of%20Life%20%282003%29/Lara%20Croft%20Tomb%20Raider%20The%20Cradle%20of%20Life%20%282003%29.mkv
+http://103.205.233.70/Data/Disk1/Hollywood/2000_2005/Lara%20Croft%20Tomb%20Raider%202%20%282003%29/Lara%20Croft%20Tomb%20Raider%202%202003%20The%20Cradle%20of%20Life.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Love & Basketball (2000)" tvg-logo="https://image.tmdb.org/t/p/original//zNZWNX19FZ5QyedprVM0ldsXFiP.jpg" group-title="Movies",Love & Basketball
 http://103.205.233.70/Data/Disk1/Hollywood/2000_2005/LOVE%20AND%20BASKETBALL%20%282000%29/Love.and.Basketball.2000.720p.BluRay.x264.YIFY.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Lord of War (2005)" tvg-logo="https://image.tmdb.org/t/p/original//xEdwdFZRwrNAvTDx0fAV3MAInaA.jpg" group-title="Movies",Lord of War
-http://flixhub.net/Data/Disk1/Hollywood/2005/Lord%20of%20War%20%282005%29/Lord%20of%20War%20%282005%29.mp4
+http://103.205.233.70/Data/Disk1/Hollywood/2000_2005/Lord%20of%20War%20%282005%29/Lord_of_War_2005__BRrip__BDPLEX.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Takers (2010)" tvg-logo="https://image.tmdb.org/t/p/original//3RkHrOIRvTqAJ0Oj6aNZOxQ5RbM.jpg" group-title="Movies",Takers
 http://103.205.233.70/Data/Disk1/Hollywood/2006_2010/Takers%20%282010%29/Takers_2010__BRrip__BDPLEX.mkv
@@ -509,20 +515,14 @@ http://103.115.14.52/Movies/Hollywood/2017/The.Hitman's.Bodyguard.2017.720p.BluR
 #EXTINF:-1 tvg-id="" tvg-name="The Foreigner (2017)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/70395/RQZpMzQIjNcBHZYu9qVMhNXNwz0UnWbncyS6Quv0.webp" group-title="Movies",The Foreigner
 http://103.115.14.52/Movies/Hollywood/2017/The.Foreigner.2017.720p.BluRay.x264-%5bYTS.AG%5d.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Rise of the Planet of the Apes (2011)" tvg-logo="https://image.tmdb.org/t/p/original//cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg" group-title="Movies",Rise of the Planet of the Apes
-http://flixhub.net/Data/Disk1/Hollywood/2011/Rise%20of%20the%20Planet%20of%20the%20Apes%20%282011%29/Rise%20of%20the%20Planet%20of%20the%20Apes%202011%201080p%20BluRay%20x264%20AAC-ETRG.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="War for the Planet of the Apes (2017)" tvg-logo="https://image.tmdb.org/t/p/original//ijQHiImv16vNSeZQsmih04kwn0C.jpg" group-title="Movies",War for the Planet of the Apes
-http://103.115.14.52/Movies/Hollywood/2017/War.For.The.Planet.Of.The.Apes.2017.720p.BluRay.x264-%5bYTS.AG%5d.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="Batman Begins (2005)" tvg-logo="https://image.tmdb.org/t/p/original//8RW2runSEc34IwKN2D1aPcJd2UL.jpg" group-title="Movies",Batman Begins
-http://flixhub.net/Data/Disk1/Hollywood/2005//Batman%20Begins%20(2005)/Batman%20Begins%20(2005).mkv
+http://103.121.39.254/media/disk5/MOVIE%20SERIES/Batman%20Series/Batman.Begins.2005.1080p.BluRay.H264.AAC-RARBG/Batman.Begins.2005.1080p.BluRay.H264.AAC-RARBG.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="The Dark Knight (2008)" tvg-logo="https://image.tmdb.org/t/p/original//qJ2tW6WMUDux911r6m7haRef0WH.jpg" group-title="Movies",The Dark Knight
-http://flixhub.net/Data/Disk1/Hollywood/2008//The%20Dark%20Knight%20(2008)/The%20Dark%20Knight%20(2008).mkv
+http://103.121.39.254/media/disk5/MOVIE%20SERIES/Batman%20Series/The.Dark.Knight.Rises.2012.1080p.BluRay.H264.AAC-RARBG/The.Dark.Knight.Rises.2012.1080p.BluRay.H264.AAC-RARBG.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="The Dark Knight Rises (2012)" tvg-logo="https://image.tmdb.org/t/p/original//85cWkCVftiVs0BVey6pxX8uNmLt.jpg" group-title="Movies",The Dark Knight Rises
-The Dark Knight Rises (2012) - http://flixhub.net/Data/Disk1/Hollywood/2012/The%20Dark%20Knight%20Rises%20%282012%29/The%20Dark%20Knight%20Rises%202012.mp4
+http://103.121.39.254/media/disk5/MOVIE%20SERIES/Batman%20Series/The.Dark.Knight.Rises.2012.1080p.BluRay.H264.AAC-RARBG/The.Dark.Knight.Rises.2012.1080p.BluRay.H264.AAC-RARBG.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Wonder Woman (2017)" tvg-logo="https://image.tmdb.org/t/p/original//imekS7f1OuHyUP2LAiTEM0zBzUz.jpg" group-title="Movies",Wonder Woman
 http://103.115.14.52/Movies/Hollywood/2017/Wonder.Woman.2017.720p.BluRay.x264-%5bYTS.AG%5d.mp4
@@ -576,7 +576,7 @@ http://167.114.174.132:9092/movies/batch202/The.Purge.Election.Year.2016.HC.720p
 http://167.114.174.132:9092/movies/batch216/The.Mechanic.2011.BluRay.720p.BrRip.YIFY.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Mechanic: Resurrection (2016)" tvg-logo="https://image.tmdb.org/t/p/original//3FUJT82YKY1EJ1dmunQhW5PUZAT.jpg" group-title="Movies",Mechanic: Resurrection
-http://flixhub.net/Data/Disk1/Hollywood/2016/Mechanic_Resurrection_2016/Mechanic.Resurrection.2016.1080p.BluRay.x264-%5BYTS.AG%5D.mp4
+http://dl1.sermovie.xyz/Movies/2016/Mechanic.Resurrection/Mechanic.Resurrection.2016.720p.x265.ShAaNiG.Sermovie.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Extraction (2020)" tvg-logo="https://image.tmdb.org/t/p/original//nygOUcBKPHFTbxsYRFZVePqgPK6.jpg" group-title="New Movies",Extraction
 http://flixhub.net/Data/Disk5/2020/Extraction%20%282020%29/Extraction.2020.1080p.WEB-DL.mp4
