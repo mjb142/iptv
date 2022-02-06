@@ -3,7 +3,7 @@ group-title="New Movies"
 #EXTINF:-1 tvg-id="" tvg-name="Clean (2022)" tvg-logo="https://image.tmdb.org/t/p/original//kRpKJstAW7DsoPAEBW2Kk1uD9Q6.jpg" group-title="New Movies",Clean
 https://cdn.naturalbd.com/hollywood/2022/Clean.2022.1080p.WEBRip/Clean.2022.1080p.WEBRip.mp4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="American Underdog (2021)" tvg-logo="https://image.tmdb.org/t/p/original//u3iXpvLPG4DbmuNY9yPjn1Ei54.jpg" group-title="Movies",American Underdog
+#EXTINF:-1 tvg-id="" tvg-name="American Underdog (2021)" tvg-logo="https://image.tmdb.org/t/p/original//u3iXpvLPG4DbmuNY9yPjn1Ei54.jpg" group-title="New Movies",American Underdog
 https://cdn.naturalbd.com/hollywood/2022/American.Underdog.2021.1080p.WEBRip/American.Underdog.2021.1080p.WEBRip.mp4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="The 355 (2022)" tvg-logo="https://image.tmdb.org/t/p/original//xef9Ht77B2igqZv754HNdW8qZCk.jpg" group-title="New Movies",The 355
