@@ -1,5 +1,11 @@
 group-title="New Movies"
 
+#EXTINF:-1 tvg-id="" tvg-name="Nightmare Alley (2021)" tvg-logo="https://image.tmdb.org/t/p/original//680klE0dIreQQOyWKFgNnCAJtws.jpg" group-title="Movies",Nightmare Alley
+http://59.153.203.202/Data/movies/hollywood/2022/Nightmare%20Alley%20%282021%29/Nightmare.Alley.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="House of Gucci (2021)" tvg-logo="https://image.tmdb.org/t/p/original//vHla3Ej2m53rNmvmYkzvennLrKn.jpg" group-title="Movies",House of Gucci
+http://59.153.203.202/Data/movies/hollywood/2022/House%20Of%20Gucci%20%282021%29/House.Of.Gucci.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Clean (2022)" tvg-logo="https://image.tmdb.org/t/p/original//kRpKJstAW7DsoPAEBW2Kk1uD9Q6.jpg" group-title="New Movies",Clean
 https://cdn.naturalbd.com/hollywood/2022/Clean.2022.1080p.WEBRip/Clean.2022.1080p.WEBRip.mp4.m3u8
 
