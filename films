@@ -850,3 +850,6 @@ http://dl4.sermovie.xyz/Movies/2016/The.Accountant/The.Accountant.2016.720p.BluR
 
 #EXTINF:-1 tvg-id="" tvg-name="Hancock (2008)" tvg-logo="https://image.tmdb.org/t/p/original//7DyuV2G0hLEqHeueDfOqhZ2DVut.jpg" group-title="Movies",Hancock
 http://103.135.208.2/Data/movies/Hollywood/2008/Hancock%20%282008%29/Hancock%20%282008%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Running Scared (2006)" tvg-logo="https://image.tmdb.org/t/p/original//7o5cH4k71kPrbAaPvg5dZzJinkB.jpg" group-title="Movies",Running Scared
+http://103.135.208.2/Data/movies/Hollywood/2006/Running%20Scared%20%282006%29/Running%20Scared%20%282006%29.mkv
