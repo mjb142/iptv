@@ -849,3 +849,117 @@ http://103.135.208.2/Data/movies/Hollywood/2008/Hancock%20%282008%29/Hancock%20%
 
 #EXTINF:-1 tvg-id="" tvg-name="Running Scared (2006)" tvg-logo="https://image.tmdb.org/t/p/original//7o5cH4k71kPrbAaPvg5dZzJinkB.jpg" group-title="Movies",Running Scared
 http://103.135.208.2/Data/movies/Hollywood/2006/Running%20Scared%20%282006%29/Running%20Scared%20%282006%29.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Die Hard (1988)" tvg-logo="https://image.tmdb.org/t/p/original//yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg" group-title="Die Hard Collection",Die Hard
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Die%20Hard%201%20%281988%29/Die%20Hard%201%201988.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Die Hard 2 (1990)" tvg-logo="https://image.tmdb.org/t/p/original//wUEizkONxPZmIWQ2lnMttW0suXH.jpg" group-title="Die Hard Collection",Die Hard 2
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Die%20Hard%202%20%281990%29/Die%20Hard%202%201990.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Die Hard: With a Vengeance (1995)" tvg-logo="https://image.tmdb.org/t/p/original//amwo4CjYKynZ2yKvKMxoiRSsaE1.jpg" group-title="Die Hard Collection",Die Hard: With a Vengeance
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Die%20Hard%20-%20With%20a%20Vengeance%20%281995%29/Die%20Hard%20-%20With%20a%20Vengeance%201995.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Live Free or Die Hard (2007)" tvg-logo="https://image.tmdb.org/t/p/original//31TT47YjBl7a7uvJ3ff1nrirXhP.jpg" group-title="Die Hard Collection",Live Free or Die Hard
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Live%20Free%20or%20Die%20Hard%202007/Live%20Free%20or%20Die%20Hard%202007.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="A Good Day to Die Hard (2013)" tvg-logo="https://image.tmdb.org/t/p/original//qLxuRRNqGt5x4dFRYoG5O9mbEwW.jpg" group-title="Die Hard Collection",A Good Day to Die Hard
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/A%20Good%20Day%20to%20Die%20Hard%20%282013%29/A%20Good%20Day%20to%20Die%20Hard%202013%20BRRip.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Blade (1998)" tvg-logo="https://image.tmdb.org/t/p/original//e6ErRnIgKmoBtcKpht3amsMfo52.jpg" group-title="Blade Collection",Blade
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Blade%20%281998%29/Blade%201998.mkv    
+
+#EXTINF:-1 tvg-id="" tvg-name="Blade II (2002)" tvg-logo="https://image.tmdb.org/t/p/original//yDHwo3eWcMiy5LnnEnlGV9iLu9k.jpg" group-title="Blade Collection",Blade II         
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Blade%20II%20%282002%29/Blade%20II%202002.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="Blade III (2004)" tvg-logo="https://image.tmdb.org/t/p/original//62WdFTVWAVFnDfNci35Ik59Mwfa.jpg" group-title="Blade Collection",Blade III                            
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Blade%20III%20%282004%29/Blade%20III%202004.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="Carlito's Way (1993)" tvg-logo="https://image.tmdb.org/t/p/original//5FoDnVgl1YtdvAAGnLvRpl5lW9X.jpg" group-title="Movies",Carlito's Way
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Carlito%27s%20Way%20%281993%29/Carlito%27s%20Way%201993%20BRRip.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Condemned (2007)" tvg-logo="https://image.tmdb.org/t/p/original//oo6jokX6HjqpakYNyg42MxW0kel.jpg" group-title="Movies",The Condemned
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/The%20Condemned%20%282007%29/The%20Condemned%20%282007%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Incredible Hulk (2008)" tvg-logo="https://image.tmdb.org/t/p/original//odVVJrCOveHXCBc5Pf2k4XmOhIz.jpg" group-title="Movies",The Incredible Hulk
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/The%20Incredible%20Hulk%20%282008%29/The%20Incredible%20Hulk%202008.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Punisher (2004)" tvg-logo="https://image.tmdb.org/t/p/original//7rmA1HwYp2GKM85BL0cVwCaosGr.jpg" group-title="Movies",The Punisher
+http://103.135.208.2/Data/movies/Hollywood/2004/The%20Punisher%20%282004%29/The%20Punisher%20%282004%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Hangover (2009)" tvg-logo="https://image.tmdb.org/t/p/original//wTt2BoyAGhr0M00eR1ewVZyQoUq.jpg" group-title="The Hangover Trilogy",The Hangover
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/The%20Hangover%20%282009%29/The%20Hangover%202009.mp4    
+
+#EXTINF:-1 tvg-id="" tvg-name="The Hangover II (2011)" tvg-logo="https://image.tmdb.org/t/p/original//7sGkjqorTHkaHTz8Q4WWHj8JL9t.jpg" group-title="The Hangover Trilogy",The Hangover II                   
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/The%20Hangover%20II%20%282011%29/The%20Hangover%20II%202011.mkv  
+
+#EXTINF:-1 tvg-id="" tvg-name="The Hangover Part III (2013)" tvg-logo="https://image.tmdb.org/t/p/original//vtxuPWkdllLNLVyGjKYa267ntuH.jpg" group-title="The Hangover Trilogy",The Hangover Part III                     
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/The%20Hangover%20Part%20III%20%282013%29/The%20Hangover%20Part%20III%20%282013%29.mp4       
+              
+#EXTINF:-1 tvg-id="" tvg-name="Pitch Black (2000)" tvg-logo="https://theposterdb.com/api/assets/26842/view" group-title="Riddick: The Complete Collection",Pitch Black
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Chronicles%20of%20Riddick%201%20%282000%29/Chronicles%20of%20Riddick%202000%20Pitch%20Black.mp4  
+        
+#EXTINF:-1 tvg-id="" tvg-name="Chronicles of Riddick (2004)" tvg-logo="https://image.tmdb.org/t/p/original//iSaB7jBgsU6sXqKneZpdeRw5MSV.jpg" group-title="Riddick: The Complete Collection",Chronicles of Riddick     
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Chronicles%20of%20Riddick%20%282000%29/Chronicles%20of%20Riddick%20%282000%29%20BRRip.avi
+
+#EXTINF:-1 tvg-id="" tvg-name="Riddick (2013)" tvg-logo="https://image.tmdb.org/t/p/original//xhdDd6Gd6EaPBwNdCjNW2HCnIQY.jpg" group-title="Riddick: The Complete Collection",Riddick
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Riddick%20%282013%29/Riddick%20%282013%29%20BRRip%20%20EXTENDED.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Oceans 11 (2011)" tvg-logo="https://image.tmdb.org/t/p/original//v5D7K4EHuQHFSjveq8LGxdSfrGS.jpg" group-title="Ocean's Trilogy",Oceans 11
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Ocean%27s%20%282011%29/Ocean%27s%2011.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Oceans 12 (2012)" tvg-logo="https://image.tmdb.org/t/p/original//pE5anFf7nf6ah7V3VRezQ1KSovi.jpg" group-title="Ocean's Trilogy",Oceans 12
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Ocean%27s%20%282012%29/Ocean%27s%2012.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Oceans 13 (2013)" tvg-logo="https://image.tmdb.org/t/p/original//bfh0KadSoBOvdqBLWF93fFzokbg.jpg" group-title="Ocean's Trilogy",Oceans 13
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Ocean%27s%20%282013%29/Ocean%27s%2013.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Rambo First Blood (1982)" tvg-logo="https://image.tmdb.org/t/p/original//a9sa6ERZCpplbPEO7OMWE763CLD.jpg" group-title="Rambo Collection",Rambo First Blood
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Rambo%20First%20Blood%20%281982%29/Rambo%20-%20First%20Blood%20%281982%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Rambo First Blood II (1985)" tvg-logo="https://image.tmdb.org/t/p/original//pzPdwOitmTleVE3YPMfIQgLh84p.jpg" group-title="Rambo Collection",Rambo First Blood II
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Rambo%20First%20Blood%20II%20%281985%29/Rambo%20-%20First%20Blood%20II%20%281985%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Rambo III (1988)" tvg-logo="https://image.tmdb.org/t/p/original//8k8vnYKnKBeAQ7lUR0lUcXSsJC7.jpg" group-title="Rambo Collection",Rambo III
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Rambo%20III%20%281988%29/Rambo%20III%20%281988%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Rambo (2008)" tvg-logo="https://image.tmdb.org/t/p/original//45YC86aMjWlcPkvgWwqdI6Clq7b.jpg" group-title="Rambo Collection",Rambo
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Rambo%20%282008%29/%20Rambo%20%282008%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Rambo: Last Blood (2019)" tvg-logo="https://image.tmdb.org/t/p/original//kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" group-title="Rambo Collection",Rambo: Last Blood
+http://103.135.208.2/Data/movies/Hollywood/2019/Rambo%3A%20Last%20Blood%20%282019%29/Rambo.Last.Blood.2019.1080p.BluRay.x264-%5BYTS.LT%5D.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Taken (2008)" tvg-logo="https://image.tmdb.org/t/p/original//wrJjDB8SSJJKcpXVf4KAxZIHvBZ.jpg" group-title="Taken Collection",Taken
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Taken%20%282008%29/Taken%202008%20BRRip.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Taken 2 (2012)" tvg-logo="https://image.tmdb.org/t/p/original//yzAlcuJhpnxRPjaj7AHBRbNPQCJ.jpg" group-title="Taken Collection",Taken 2
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Taken%202%20%282012%29/Taken%202%202012%20BRRip.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Taken 3 (2014)" tvg-logo="https://image.tmdb.org/t/p/original//vzvMXMypMq7ieDofKThsxjHj9hn.jpg" group-title="Taken Collection",Taken 3
+http://103.135.208.2/Data/movies/Hollywood/2014/Taken%203%20%282014%29/Taken%203%20%282014%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Silence of the Lambs (1991)" tvg-logo="https://image.tmdb.org/t/p/original//rplLJ2hPcOQmkFhTqUte0MkEaO2.jpg" group-title="Hannibal Anthology",The Silence of the Lambs
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/The%20Silence%20of%20the%20Lambs%20%281991%29/The%20Silence%20of%20the%20Lambs%20%281991%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal (2001)" tvg-logo="https://image.tmdb.org/t/p/original//v5wAZwRqpGWmyAaaJ8BBHYuNXnj.jpg" group-title="Hannibal Anthology",Hannibal
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Hannibal%20%282001%29/Hannibal%20%282001%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal Rising (2007)" tvg-logo="https://image.tmdb.org/t/p/original//7FTDMQoac0uqJUquZk4KenDzLMZ.jpg" group-title="Hannibal Anthology",Hannibal Rising
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Hannibal%20Rising%20%282007%29/Hannibal%20Rising%20%282007%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Transformers (2007)" tvg-logo="https://image.tmdb.org/t/p/original//6eehp9I54syN3x753XMqjKz8M3F.jpg" group-title="Transformers Collection",Transformers
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Transformers%20%282007%29/Transformers%202007%20BRRip.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="Transformers 2 Revenge of the Fallen (2009)" tvg-logo="https://image.tmdb.org/t/p/original//pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg" group-title="Transformers Collection",Transformers 2 Revenge of the Fallen                        
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Transformers%202%20Revenge%20of%20the%20Fallen%20%282009%29/Transformers%202%20-%20Revenge%20of%20the%20Fallen%202009%20BRRip.mkv    
+
+#EXTINF:-1 tvg-id="" tvg-name="Transformers 3 - Dark of The Moon (2011)" tvg-logo="https://image.tmdb.org/t/p/original//yUqm7eke9oL0ZmKJfgIJLs8WNuJ.jpg" group-title="Transformers Collection",Transformers 3 - Dark of The Moon
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Transformers%203%20-%20Dark%20of%20The%20Moon%20%282011%29/Transformers%203%20-%20Dark%20of%20The%20Moon%202011%20BRRip.mkv    
+
+#EXTINF:-1 tvg-id="" tvg-name="Transformers Age of Extinction (2014)" tvg-logo="https://image.tmdb.org/t/p/original//jyzrfx2WaeY60kYZpPYepSjGz4S.jpg" group-title="Transformers Collection",Transformers Age of Extinction
+http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Transformers%20Age%20of%20Extinction%20%282014%29/Transformers%20Age%20of%20Extinction%20%282014%29.mp4      
+
+#EXTINF:-1 tvg-id="" tvg-name="Transformers: The Last Knight (2017)" tvg-logo="https://image.tmdb.org/t/p/original//s5HQf2Gb3lIO2cRcFwNL9sn1o1o.jpg" group-title="Transformers Collection",Transformers: The Last Knight
+http://103.133.135.242/Data/movies/hollywood/2017/Transformers%3A%20The%20Last%20Knight%20%282017%29/Transformers%20-%20%5B2017%5D%20-%20The%20Last%20Knight%20-%201080p%20Blu-Ray.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Bumblebee (2018)" tvg-logo="https://image.tmdb.org/t/p/original//fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg" group-title="Transformers Collection",Bumblebee
+http://103.133.135.242/Data/movies/hollywood/2018/Bumblebee%20%282018%29%20%5B1080p%5D/Bumblebee%20%282018%29%20%5B1080p%5D.mp4
