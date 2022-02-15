@@ -192,19 +192,19 @@ http://73.82.182.197/Movies/Black.And.Blue.2019.1080p.BluRay.mkv
 group-title="The Fast and the Furious Collection"
 
 #EXTINF:-1 tvg-id="" tvg-name="The Fast and the Furious (2001)" tvg-logo="https://image.tmdb.org/t/p/original//gqY0ITBgT7A82poL9jv851qdnIb.jpg" group-title="The Fast and the Furious Collection",The Fast and the Furious
-http://103.205.233.70/Data/Disk1/Hollywood/2000_2005/Fast%20and%20Furious%201%20the%20%282001%29/Fast%20and%20Furious%201%20the%202001.mp4
+http://103.135.208.2/Data/movies/Hollywood/2001/The%20Fast%20And%20The%20Furious%20%282001%29/The%20Fast%20And%20The%20Furious%20%282001%29.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="2 Fast 2 Furious (2003)" tvg-logo="https://image.tmdb.org/t/p/original//qC167IbZpSrwX7wWgg3BeDQbTDr.jpg" group-title="The Fast and the Furious Collection",2 Fast 2 Furious
-http://103.205.233.70/Data/Disk1/Hollywood/2000_2005/Fast%20and%20furious%202%20Fast%202%20Furious%20%282003%29/Fast%20and%20furious%202%20Fast%202%20Furious%202003.mp4
+http://103.135.208.2/Data/movies/Hollywood/2003/2%20Fast%20and%202%20Furious%20%282003%29/2%20Fast%20and%202%20Furious%20%282003%29.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="The Fast and the Furious: Tokyo Drift (2006)" tvg-logo="https://image.tmdb.org/t/p/original//cm2ffqb3XovzA5ZSzyN3jnn8qv0.jpg" group-title="The Fast and the Furious Collection",The Fast and the Furious: Tokyo Drift
-http://103.205.233.70/Data/Disk1/Hollywood/2006_2010/Fast%20and%20furious%203%20Tokyo%20Drift%20%282006%29/Fast%20and%20furious%203%202006%20Tokyo%20Drift%202006.mp4
+http://103.135.208.2/Data/movies/Hollywood/2006/The%20Fast%20and%20the%20Furious-Tokyo%20Drift%20%282006%29/The%20Fast%20and%20the%20Furious-Tokyo%20Drift%20%282006%29.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Fast & Furious (2009)" tvg-logo="https://image.tmdb.org/t/p/original//fjGCa4oLvgpMVF2jawbjXBWp91v.jpg" group-title="The Fast and the Furious Collection",Fast & Furious
 http://59.153.203.202/Data/movies/hollywood/2009/Fast%20and%20Furious%20%282009%29%20%5B1080p%5D/Fast.and.Furious.2009.1080p.BrRip.x264.YIFY.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Fast Five (2011)" tvg-logo="https://image.tmdb.org/t/p/original//gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg" group-title="The Fast and the Furious Collection",Fast Five
-http://103.205.233.70/Data/Disk1/Hollywood/2011_2015/Fast%20Five%20%282011%29/Fast.Five.2011__BRrip__BDPLEX.mkv
+http://dl3.sermovie.xyz/Movies/2011/Fast.Five/Fast.Five.2011.720p.BrRip.x264.YTS.Sermovie.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Fast & Furious 6 (2013)" tvg-logo="https://image.tmdb.org/t/p/original//n31VRDodbaZxkrZmmzyYSFNVpW5.jpg" group-title="The Fast and the Furious Collection",Fast & Furious 6
 http://59.153.203.202/Data/movies/hollywood/2013/Fast%20and%20Furious%206%20%282013%29/Fast%20and%20Furious%206%20%282013%29.mkv
@@ -222,7 +222,7 @@ http://rmeyer.comelitdns.com/Movies/F9%20(2021)%20%5b1080p%5d%20%5bWEBRip%5d%20%
 group-title="John Wick Collection"
 
 #EXTINF:-1 tvg-id="" tvg-name="John Wick (2014)" tvg-logo="https://image.tmdb.org/t/p/original//fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg" group-title="John Wick Collection",John Wick 
-http://103.205.233.70/Data/Disk1/Hollywood/2011_2015/John%20Wick%20%282014%29/John_Wick_2014__1080p_WEBrip__BDPLEX.mkv
+http://103.135.208.2/Data/movies/Hollywood/2014/John%20Wick%20%282014%29/John%20Wick%20%282014%29.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="John Wick: Chapter 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/original//hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg" group-title="John Wick Collection",John Wick: Chapter 2
 http://59.153.203.202/Data/movies/hollywood/2017/John%20Wick%20Chapter%202%20%282017%29/John.Wick.Chapter.2.2017.1080p.HD.mp4
@@ -333,19 +333,19 @@ http://103.115.14.52/Movies/Hollywood/2019/Terminator.Dark.Fate.2019.720p.BluRay
 group-title="Mission: Impossible Collection"
 
 #EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible (1996)" tvg-logo="https://image.tmdb.org/t/p/original//lirMXnE7NoVLDr3qeqf48fR1mk4.jpg" group-title="Mission: Impossible Collection",Mission: Impossible
-http://103.205.233.70/Data/Disk1/Hollywood/1900_1999/Mission%20Impossible%20%281996%29/Mission.Impossible.1996.1080p.BluRay.x264.anoXmous_.mp4
+http://84.22.44.211/09.09/Mission%20Impossible%20(1996)%20[1080p]%20[YTS.AG]/Mission.Impossible.1996.1080p.BluRay.x264-[YTS.AG].mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible II (2000)" tvg-logo="https://image.tmdb.org/t/p/original//2njB2A85Ni7bRR7vIOrfv6TBPeC.jpg" group-title="Mission: Impossible Collection",Mission: Impossible II
-http://103.205.233.70/Data/Disk1/Hollywood/2000_2005/Mission%20Impossible%20II%20%282000%29/Mission.Impossible.II.2000.1080p.BluRay.x264.anoXmous_.mp4
+http://84.22.44.211/09.09/Mission%20Impossible%20II%20(2000)%20[1080p]%20[YTS.AG]/Mission.Impossible.II.2000.1080p.BluRay.x264-[YTS.AG].mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible III (2006)" tvg-logo="https://image.tmdb.org/t/p/original//5l0hS4A119jCA1A02XsFZHq1uRD.jpg" group-title="Mission: Impossible Collection",Mission: Impossible III
-http://103.205.233.70/Data/Disk1/Hollywood/2006_2010/Mission%20Impossible%20III%20%282006%29/Mission.Impossible.III.2006.1080p.BluRay.x264.anoXmous_.mp4
+http://84.22.44.211/09.09/Mission%20Impossible%20III%20(2006)%20[1080p]%20[YTS.AG]/Mission.Impossible.III.2006.1080p.BluRay.x264-[YTS.AG].mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible - Ghost Protocol (2011)" tvg-logo="https://image.tmdb.org/t/p/original//7GCKNRbzcA4rJXAKoE8KS9IDnZP.jpg" group-title="Mission: Impossible Collection",Mission: Impossible - Ghost Protocol
-http://103.205.233.70/Data/Disk1/Hollywood/2011_2015/Mission%20Impossible%20Ghost%20Protocol%20%282011%29/Mission_Impossible_Ghost_Protocol_2011__BRrip__BDPLEX.mkv
+http://dl3.sermovie.xyz/Movies/2011/Mission.Impossible.Ghost.Protocol/Mission.Impossible.Ghost.Protocol.2011.720p.BrRip.x264.SoftSub.YTS.Sermovie.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible - Rogue Nation (2015)" tvg-logo="https://image.tmdb.org/t/p/original//fRJLXQBHK2wyznK5yZbO7vmsuVK.jpg" group-title="Mission: Impossible Collection",Mission: Impossible - Rogue Nation 
-http://103.205.233.70/Data/Disk1/Hollywood/2011_2015/Mission%20Impossible%20Rogue%20Nation%20%282015%29/Mission_Impossible_Rogue_Nation_%282015%29__720p_BRrip__BDPLEX.mkv
+http://dl3.sermovie.xyz/Movies/2015/Mission.Impossible.Rogue.Nation/Mission.Impossible.Rogue.Nation.2015.720p.Subbed.BluRay.x264.YTS.Sermovie.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible - Fallout (2018)" tvg-logo="https://image.tmdb.org/t/p/original//AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg" group-title="Mission: Impossible Collection",Mission Impossible Fallout
 http://103.121.39.254/media/disk5/MOVIE%20SERIES/Mission%20Impossible%20Series/Mission.Impossible.Rogue.Nation.2015.1080p.BluRay.H264.AAC-RARBG/Mission.Impossible.Rogue.Nation.2015.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -392,7 +392,7 @@ http://109.120.203.163/lvm/action/Deadpool%20(2016)%20%5bYTS.AG%5d/Deadpool.2016
 http://109.120.203.163/lvm/action/Deadpool.2.2018.Super.Duper.Cut.UNRATED.PROPER.720p.BluRay.H264.AAC-RARBG/Deadpool.2.2018.Super.Duper.Cut.UNRATED.PROPER.720p.BluRay.H264.AAC-RARBG.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Godzilla (2014)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/4146/TWj7zMJfa2XeABsiggWw7OYrmwRM9EuoGLDdezhz.webp" group-title="Movies",Godzilla
-http://103.205.233.70/Data/Disk1/Hollywood/2011_2015/Godzilla%20%282014%29/Godzilla.2014__1080p.BRrip__BDPLEX.mp4
+http://84.22.44.211/09.09/Godzilla%20(2014)%20[1080p]/Godzilla.2014.1080p.BluRay.x264.YIFY.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Kong: Skull Island (2017)" tvg-logo="https://image.tmdb.org/t/p/original//r2517Vz9EhDhj88qwbDVj8DCRZN.jpg" group-title="Movies",Kong: Skull Island
 http://103.121.39.254/media/disk1/Recent%20English%20Movies/2017/Kong.Skull.Island.2017.1080p.BluRay.H264.AAC%20%5bDDN%5d/Kong.Skull.Island.2017.1080p.BluRay.H264.AAC%20%5bDDN%5d.mp4
@@ -419,7 +419,7 @@ http://167.114.174.132:9092/movies/Batch219/47%20Ronin%20%282013%29/47%20Ronin%2
 http://103.115.14.52/Movies/Hollywood/2019/Joker.2019.720p.BluRay.x264-%5bYTS.LT%5d.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Rise of the Planet of the Apes (2011)" tvg-logo="https://image.tmdb.org/t/p/original//cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg" group-title="Movies",Rise of the Planet of the Apes
-http://103.205.233.70/Data/Disk1/Hollywood/2011_2015/Rise%20of%20the%20Planet%20of%20the%20Apes%20%282011%29/Rise_of_the_Planet_of_the_Apes_2011__BRrip__BDPLEX.mkv
+http://59.153.203.202/Data/movies/hollywood/2011/Rise%20Of%20The%20Planet%20Of%20The%20Apes%20%282011%29/Rise%20Of%20The%20Planet%20Of%20The%20Apes%20%282011%29.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Dawn of the Planet of the Apes (2014)" tvg-logo="https://image.tmdb.org/t/p/original//ie14Sm0hRI5f7Te2KIfU64NyCPr.jpg" group-title="Movies",Dawn of the Planet of the Apes 
 http://167.114.174.132:9092/movies/Batch219/Dawn%20of%20the%20Planet%20of%20the%20Apes%20%282014%29/Dawn%20of%20the%20Planet%20of%20the%20Apes%20%282014%29.mp4
@@ -428,7 +428,7 @@ http://167.114.174.132:9092/movies/Batch219/Dawn%20of%20the%20Planet%20of%20the%
 http://103.115.14.52/Movies/Hollywood/2017/War.For.The.Planet.Of.The.Apes.2017.720p.BluRay.x264-%5bYTS.AG%5d.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Jack Reacher (2012)" tvg-logo="https://image.tmdb.org/t/p/original//zlyhKMi2aLk25nOHnNm43MpZMtQ.jpg" group-title="Movies",Jack Reacher        
-http://103.205.233.70/Data/Disk1/Hollywood/2011_2015/Jack%20Reacher%20%282012%29/Jack_Reacher_2012__BRrip__BDPLEX.mp4
+http://84.22.44.211/09.09/Jack%20Reacher%20(2012)%20[1080p]/Jack.Reacher.2012.1080p.BRrip.x264.GAZ.YIFY.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Jack Reacher: Never Go Back (2016)" tvg-logo="https://image.tmdb.org/t/p/original//wxLUQ1pIms3HAlVGYvEG9zg2kDs.jpg" group-title="Movies",Jack Reacher: Never Go Back 
 http://167.114.174.132:9092/movies/BATCH217/Jack.Reacher.Never.Go.Back.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
@@ -455,7 +455,7 @@ https://tartarus.feralhosting.com/firepig/JP/MOVIES/Spider-Man.Into%20the%20Spid
 https://tartarus.feralhosting.com/firepig/JP/Assassins%20Creed%202016%201080p%20WEB-DL%20x264%20AC3-JYK/Assassins%20Creed%202016%201080p%20WEB-DL%20x264%20AC3-JYK.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Assassin's Creed: Lineage (2009)" tvg-logo="https://image.tmdb.org/t/p/original//21JUUtji3oGGAWepaDo3WUWGtzq.jpg" group-title="Movies",Assassin's Creed: Lineage
-http://103.205.233.70/Data/Disk1/Hollywood/2006_2010/Assassin%27s%20Creed%20II%20%282009%29/Assassins.Creed.Lineage.%282009%29_BDPLEX.mp4
+http://dl3.sermovie.xyz/Movies/2009/Assassins.Creed.Lineage/Assassins.Creed.Lineage.2009.720p.BluRay.x264.AAC.YTS.Sermovie.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Venom (2018)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg" group-title="Movies",Venom
 http://rmeyer.comelitdns.com/Movies/Venom%20(2018)%20%5bBluRay%5d%20%5b1080p%5d%20%5bYTS.AM%5d/Venom.2018.1080p.BluRay.x264-%5bYTS.AM%5d.mp4
@@ -621,7 +621,7 @@ http://dl.kartoonet.com/Superman%20Doomsday%202007/720/Superman.Doomsday.2007.72
 http://dl.kartoonet.com/Justice%20League%20The%20New%20Frontier%202008/720/Justice.League.The.New.Frontier.2008.720p.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Wonder Woman (2009)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/8584/T9Qrx7Vn1beOQeqQn0a3YuI3TkpDniqy14gKE0HW.webp" group-title="DC Universe Animated Original Movies",Wonder Woman
-http://103.205.233.70/Data/Disk6/Animation/2000_2010/Wonder%20Woman%20%282009%29/Wonder.Woman.2009.1080p.BrRip.x264.Deceit.YIFY.mp4
+http://188.165.227.112/portail/films/Wonder.Woman.2009.VOSTFR.1080p.BluRay.x264-LEGiON/Wonder.Woman.2009.VOSTFR.1080p.BluRay.x264-LEGiON.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Green Lantern: First Flight (2009)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/30497/UCwFQKLalu12uo0zYksEhCFn0jiAqjxZD0vbmw5u.webp" group-title="DC Universe Animated Original Movies",Green Lantern: First Flight
 http://103.205.233.70/Data/Disk6/Animation/2000_2010/Green%20Lantern%20First%20Flight%20%282009%29/Green.Lantern.First.Flight.2009.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -642,64 +642,64 @@ All-Star Superman (2011) - http://dl.kartoonet.com/All%20Star%20Superman%202011/
 Green Lantern: Emerald Knights (2011) - http://103.205.233.70/Data/Disk6/Animation/2011_2018/Green%20Lantern%20Emerald%20Knights%20%282011%29/Green%20Lantern%20Emerald%20Knights%202011%201080p%20BRrip%20x264%20YIFY.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Justice League: Doom (2012)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/7961/SD0wpTM98d7k7dq7G31Qbt1l3hpa10reQoQYcOpV.webp" group-title="DC Universe Animated Original Movies",Justice League: Doom
-http://103.205.233.70/Data/Disk6/Animation/2011_2018/Justice%20League%20Doom%20%282012%29/Justice.League.Doom.2012.1080p.BRrip.x264.YIFY.mp4
+http://103.135.208.2/Data/movies/Hollywood/2012/Justice%20League%20Doom%20%282012%29/Justice%20League%20Doom%202012.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Superman vs. The Elite (2012)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/9738/i5ZtQvnak85Heikw4Vz1AR21SrQnBTex7qnmJVMx.webp" group-title="DC Universe Animated Original Movies",Superman vs. The Elite
-http://103.205.233.70/Data/Disk6/Animation/2011_2018/Superman%20VS%20The%20Elite%20%282012%29/Superman.VS.The.Elite.2012.1080p.BRrip.x264.YIFY.mp4
+http://dl3.sermovie.xyz/Movies/2012/Superman.VS.The.Elite/Superman.VS.The.Elite.2012.720p.BRrip.x264.YTS.Sermovie.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Batman: The Dark Knight Returns, Part 1 (2012)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/3846/YjHNXewxaG4ENmXf7tb9DIVJKYlrBnpbFKFrHdme.webp" group-title="DC Universe Animated Original Movies",Batman: The Dark Knight Returns, Part 1
-http://103.205.233.70/Data/Disk6/Animation/2011_2018/Batman%20The%20Dark%20Knight%20Returns%20Part%201%20%282012%29/Batman.The.Dark.Knight.Returns.Part.1.2012.1080p.BRrip.x264.YIFY.mp4
+http://dl3.sermovie.xyz/Movies/2012/Batman.The.Dark.Knight.Returns.Part.1/Batman.The.Dark.Knight.Returns.Part.1.2012.720p.BRrip.x264.YTS.Sermovie.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Batman: The Dark Knight Returns, Part 2 (2013)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/3847/d8oSGYwPnqsVqKiNT36PDaFDXvG83H2W2SMaLhwD.webp" group-title="DC Universe Animated Original Movies",Batman: The Dark Knight Returns, Part 2
-http://103.205.233.70/Data/Disk6/Animation/2011_2018/Batman%20The%20Dark%20Knight%20Part%202%20%282013%29/Batman.The.Dark.Knight.Part.2.2013.1080p.BRrip.x264.GAZ.YIFY.mp4
+http://103.135.208.2/Data/movies/animation/2011-2020/Batman%20The%20Dark%20Knight%20Part%202%20%282013%29/Batman%20The%20Dark%20Knight%20Part%202%202013%20BRrip.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Superman: Unbound (2013)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/9734/r7pmlkXmIbjQ2aNSZq5brXf65niDXQ8JN4FYyzWM.webp" group-title="DC Universe Animated Original Movies",Superman: Unbound
-http://103.205.233.70/Data/Disk6/Animation/2011_2018/Superman%20Unbound%20%282013%29/Superman.Unbound.2013.1080p.BluRay.x264.YIFY.mp4
+http://59.153.203.202/Data/movies/animation/2011-2020/Superman%20Unbound%20%282013%29/Superman%20Unbound%20%282013%29.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Justice League: The Flashpoint Paradox (2013)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/7962/BprUDGrYnLRmc7drHb7kirJRsX67HiRsFbpMwc59.webp" group-title="DC Universe Animated Original Movies",Justice League: The Flashpoint Paradox
-http://103.205.233.70/Data/Disk6/Animation/2011_2018/Justice%20League%20The%20Flashpoint%20Paradox%20%282013%29/Justice%20League%20The%20Flashpoint%20Paradox%202013%201080p%20BluRay%20AAC%20x264.mp4
+http://103.135.208.2/Data/movies/animation/2011-2020/Justice%20League%20The%20Flashpoint%20Paradox%20%282013%29/Justice%20League%20The%20Flashpoint%20Paradox%202013.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Justice League: War (2014)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/7959/YtcYW4yCEE9UW7JLQkgfwjHovyLTmxCEfDVIpocj.webp" group-title="DC Universe Animated Original Movies",Justice League: War
-http://103.205.233.70/Data/Disk6/Animation/2011_2018/Justice%20League%20War%20%282014%29/Justice.League.War.2014.1080p.BluRay.x264.YIFY.mp4
+http://59.153.203.202/Data/movies/animation/2011-2020/Justice%20League%20War%20%282014%29/Justice%20League%20War%202014%20BluRay.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Son of Batman (2014)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2592/5mAslslfNGaXCR8wRYBdKbf3V3vMWxeRL1iNqvA8.webp" group-title="DC Universe Animated Original Movies",Son of Batman
-http://103.205.233.70/Data/Disk6/Animation/2011_2018/Son%20of%20Batman%20%282014%29/Son.of.Batman.2014.1080p.BluRay.H264.AAC-RARBG.mp4
+http://103.135.208.2/Data/movies/animation/2011-2020/Son%20of%20Batman%20%282014%29/Son%20of%20Batman%20%282014%29.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Batman: Assault on Arkham (2014)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2589/NZMCDLapkX7zZMC4dRAVuI38vuUx0sVE5pp7pkVx.webp" group-title="DC Universe Animated Original Movies",Batman: Assault on Arkham
-http://103.205.233.70/Data/Disk6/Animation/2011_2018/Batman%20Assault%20on%20Arkham%20%282014%29/Batman.Assault.on.Arkham.2014.1080p.BluRay.x264.YIFY.mp4
+http://59.153.203.202/Data/movies/animation/2011-2020/Batman%20Assault%20on%20Arkham%20%282014%29/Batman%20Assault%20on%20Arkham%202014%20BDRip%20DualAudio.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Justice League: Throne of Atlantis (2015)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/671/wwuVfMliLLfErAmz70hHOhb4U5qQT5Dk4TTzPMWN.webp" group-title="DC Universe Animated Original Movies",Justice League: Throne of Atlantis
-http://103.205.233.70/Data/Disk6/Animation/2011_2018/Justice%20League%20Throne%20of%20Atlantis%20%282015%29/Justice%20League%20Throne%20Of%20Atlantis%202015%20720p%20BluRay%20x264%20AAC%20-%20Ozlem.mp4
+http://103.135.208.2/Data/movies/Hollywood/2015/Justice%20League%20Throne%20of%20Atlantis%20%282015%29/Justice%20League%20Throne%20of%20Atlantis%20%282015%29.avi
 
 #EXTINF:-1 tvg-id="" tvg-name="Batman vs. Robin (2015)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2593/ttEf8nmbkWMpebtMkhMhp4mywKG8cJSH7Bqbgj2Y.webp" group-title="DC Universe Animated Original Movies",Batman vs. Robin
-http://103.205.233.70/Data/Disk6/Animation/2011_2018/Batman%20vs%20Robin%20%282015%29/Batman.vs.Robin.2015.1080p.BluRay.H264.AAC-RARBG.mp4
+http://59.153.203.202/Data/movies/animation/2011-2020/Batman%20vs%20Robin%20%282015%29/Batman%20vs%20Robin.2015.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Justice League: Gods and Monsters (2015)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/7965/6T7d3iD4AGnSwd5AbjHjwK5lbT8LLBdcCkfp5TTa.webp" group-title="DC Universe Animated Original Movies",Justice League: Gods and Monsters
-http://103.205.233.70/Data/Disk6/Animation/2011_2018/Justice%20League%20Gods%20and%20Monsters%20%282015%29/Justice%20League%20Gods%20and%20Monsters%202015%201080p%20BluRay%20H264%20AAC-RARBG.mp4
+http://103.135.208.2/Data/movies/animation/2011-2020/Justice%20League%20Gods%20and%20Monsters%20%282015%29/Justice%20League%20Gods%20and%20Monsters%20%282015%29.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Batman: Bad Blood (2016)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2590/QlFSMgho7Sy9Yb4ZNWQjYXTkyQA3d7hm9iXiycD5.webp" group-title="DC Universe Animated Original Movies",Batman: Bad Blood
-http://103.205.233.70/Data/Disk6/Animation/2011_2018/Batman%3A%20Bad%20Blood%20%282016%29/Batman.Bad.Blood.2016__HDrip__BDPLEX.mp4
+http://abcmoviesbd.com/Data/Movies/English/Disk-1/2016//Batman%20-%20Bad%20Blood%20(2016)/Batman.Bad.Blood.2016.720p.WEBRip.x264.AAC-Nibraz.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Justice League vs. Teen Titans (2016)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/7963/TYsoNZFJvK09ZI8OSlGX5jQpoDHFJL6dBS7uqsBO.webp" group-title="DC Universe Animated Original Movies",Justice League vs. Teen Titans
-http://103.205.233.70/Data/Disk6/Animation/2011_2018/Justice%20League%20vs%20Teen%20Titans%20%282016%29/Justice%20League%20vs%20Teen%20Titans%202016%201080p%20WEBRip%20x264%20AAC-ETRG.mp4
+http://103.135.208.2/Data/movies/animation/2011-2020/Justice%20League%20vs%20Teen%20Titans%20%282016%29/Justice%20League%20vs%20Teen%20Titans%202016.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Batman: The Killing Joke (2016)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/24946/62uwUayXhGlacxvj9NYfrDzhTxBhyJMbkat8RQw1.webp" group-title="DC Universe Animated Original Movies",Batman: The Killing Joke
-http://103.205.233.70/Data/Disk6/Animation/2011_2018/Batman%20The%20Killing%20Joke%20%282016%29/Batman%20The%20Killing%20Joke%202016%201080p%20BluRay%20H264%20AAC-RARBG.mp4
+http://abcmoviesbd.com/Data/Movies/English/Disk-1/2016/Batman%20-%20The%20Killing%20Joke%20%282016%29/Batman.The.Killing.Joke.2016.BluRay..5.1CH.x264.plusnet.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Justice League Dark (2017)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/7960/KhV2mSwuaZD8CtVOqV5J83EMwQx2lH3i7G139MBy.webp" group-title="DC Universe Animated Original Movies",Justice League Dark
-http://103.205.233.70/Data/Disk6/Animation/2011_2018/Justice%20League%20Dark%20%282017%29/Justice.League.Dark.2017__720p.BRrip__BDPLEX.mkv
+http://59.153.203.202/Data/movies/animation/2011-2020/Justice%20League%20Dark%20%282017%29/Justice%20League%20Dark%20%282017%29%20.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Teen Titans: The Judas Contract (2017)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/12856/tIkJDr0nqwQuy2jKVi4D7afSEHrKkTQDOY8nPHdA.webp" group-title="DC Universe Animated Original Movies",Teen Titans: The Judas Contract
-http://103.205.233.70/Data/Disk6/Animation/2011_2018/Teen%20Titans%20The%20Judas%20Contract%20%282017%29/Teen.Titans.The.Judas.Contract.2017.1080p.BluRay.x264-%5BYTS.AG%5D.mp4
+http://103.135.208.2/Data/movies/animation/2011-2020/Teen%20Titans%20The.Judas%20Contract%20%282017%29/Teen%20Titans%20The.Judas%20Contract%20%282017%29.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Batman and Harley Quinn (2017)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2583/Mt6noCbh5926FmDCHCHPOh8pTP9523cekE8DTG3P.webp" group-title="DC Universe Animated Original Movies",Batman and Harley Quinn
-http://103.205.233.70/Data/Disk6/Animation/2011_2018/Batman%20and%20Harley%20Quinn%20%282017%29/Batman.and.Harley.Quinn.2017__720p.BRrip__BDPLEX.mkv
+http://167.114.174.132:9092/movies/Batch238/Batman.And.Harley.Quinn.2017.720p.BluRay.x264-%5BYTS.AG%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Batman: Gotham by Gaslight (2018)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2585/IbxT0jNP5MyMStmp3TDfVmcyP1kgRWuyZNutx1AY.webp" group-title="DC Universe Animated Original Movies",Batman: Gotham by Gaslight
-http://103.205.233.70/Data/Disk6/Animation/2011_2018/Batman%20Gotham%20by%20Gaslight%20%282018%29/Batman.Gotham.by.Gaslight.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+http://59.153.203.202/Data/movies/animation/2011-2020/Batman%20Gotham%20by%20Gaslight%20%282018%29/Batman%20Gotham%20by%20Gaslight%202018.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Suicide Squad: Hell to Pay (2018)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/8576/1fclqLb6q8hzlZ1qeN5P9jvdO6uF1zMzv64zTYF0.webp" group-title="DC Universe Animated Original Movies",Suicide Squad: Hell to Pay
-http://103.205.233.70/Data/Disk6/Animation/2011_2018/Suicide%20Squad%20Hell%20To%20Pay%20%282018%29/Suicide.Squad.Hell.To.Pay.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+http://abcmoviesbd.com/Data/Movies/English/Disk-1/2018/Suicide%20Squad%20Hell%20To%20Pay%20%282018%29/Suicide%20Squad%20Hell%20To%20Pay.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="The Death of Superman (2018)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/9736/bpXauYPwwHf6QSlndtLZJIDdmuocwpdF2TzrT4tU.webp" group-title="DC Universe Animated Original Movies",The Death of Superman
 http://dhakaftp.com/Data/Disk10/Animation/2018/The%20Death%20of%20Superman%20(2018)%20/The.Death.of.Superman.2018.720p.BRRip.MkvCage.ws.mkv
@@ -720,7 +720,7 @@ http://103.135.208.2/Data/movies/Hollywood/2019/Batman%3A%20Hush%20%282019%29/Ba
 http://dhakaftp.com/Data/Disk5/Hollywood/2019/Wonder%20Woman%20Bloodlines%20(2019)/Wonder%20Woman%20Bloodlines.2019.HDRip.XviD.AC3-EVO.avi
 
 #EXTINF:-1 tvg-id="" tvg-name="Superman: Red Son (2020)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/69271/3HAuOwyE645I0SGjvojASBmDaZd4OmJJZrLaKJKt.webp" group-title="DC Universe Animated Original Movies",Superman: Red Son
-http://103.205.233.70/Data/Disk11/Animation/Superman-Red%20Son%20%282020%29/Superman-Red%20Son%20%282020%29%20720p%20BluRay%20x264%20ESub%20-%20MkvHub.mkv
+http://103.135.208.2/Data/movies/animation/2011-2020/Superman%20Red%20Son%20%282020%29/Superman.Red.Son.2020.1080p.WEBRip.x264-RARBG.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Justice League Dark: Apokolips War (2020)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/48516/qa2p9A6SB0w1V626EmEazUnzPvDl22xF4iNuiPzQ.webp" group-title="DC Universe Animated Original Movies",Justice League Dark: Apokolips War
 http://dhakaftp.com/Data/Disk11/Hollywood/2020/Justice%20League%20Dark%20Apokolips%20War%20(2020)/Justice.League.Dark.Apokolips.War.2020.1080p.WEB-DL.mp4
@@ -735,10 +735,10 @@ http://dl3.sharefree.top/Batman.Soul.of.the.Dragon.2021.720p.WEBRip.800MB.x264-G
 http://103.121.39.254/media/disk1/Recent%20English%20Movies/2021/Justice.Society.World.War.II.2021.1080p.BluRay.H264.AAC%20%5bDDN%5d/Justice.Society.World.War.II.2021.1080p.BluRay.H264.AAC%20%5bDDN%5d.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Batman: The Long Halloween, Part One (2021)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/741496/w0qgGfvpgQlupysJWNRGazZRQnoQehVLDQ56K2oW.webp" group-title="DC Universe Animated Original Movies",Batman: The Long Halloween, Part One
-http://103.205.233.70/Data/Disk11/movies/animation/Batman%20The%20Long%20Halloween%20Part%20One%20(2021)/Batman.The.Long.Halloween.Part.One.2021.720p.BluRay.x264.AAC-[YTS.MX].mp4
+http://dl1.sermovie.xyz/Movies/2021/Batman.The.Long.Halloween.Part.One/Batman.The.Long.Halloween.Part.One.2021.720p.BluRay.800MB.x264-GalaxyRG.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Batman: The Long Halloween, Part Two (2021)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/741498/3gQODCdTnO8Kssgl0jmZZmZc7PPvttM6nH0vAhoZ.webp" group-title="DC Universe Animated Original Movies",Batman: The Long Halloween, Part Two
-http://103.205.233.70/Data/Disk11/movies/animation/Batman%20The%20Long%20Halloween%20Part%20Two%20(2021)/Batman.The.Long.Halloween.Part.Two.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+http://dl4.sermovie.xyz/Movies/2021/Batman.The.Long.Halloween.Part.2/Batman.The.Long.Halloween.Part.2.2021.720p.WEB-DL.x264-GalaxyRG.Sermovie.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Injustice (2021)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1270668/6RPqyUX5UIgnpZ2DuZx2He6ClOGQLierwDFgAW05.webp" group-title="DC Universe Animated Original Movies",Injustice
 http://103.121.39.254/media/disk1/Recent%20English%20Movies/2021/Injustice.2021.1080p.BluRay.H264.AAC%20%5bDDN%5d/Injustice.2021.1080p.BluRay.H264.AAC%20%5bDDN%5d.mp4
@@ -758,13 +758,13 @@ http://dl1.sermovie.xyz/Movies/2019/Fast.And.Furious.Presents.Hobbs.And.Shaw/Fas
 http://abcmoviesbd.com/Data/Movies/English/Disk-1/2013/2%20Guns%20%282013%29/2%20Guns%20%282013%29%20BRRip.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Pulp Fiction (1994)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg" group-title="Movies",Pulp Fiction
-http://103.205.233.70/Data/Disk1/Hollywood/1900_1999/Pulp%20Fiction%20%281994%29/Pulp%20Fiction%20%281994%29%20%5B1080p%5D.mp4
+http://dl1.sermovie.xyz/Movies/1994/Pulp.Fiction/Pulp.Fiction.1994.720p.BluRay.999MB.HQ.x265.10bit-GalaxyRG.Sermovie.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Brown (1997)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ewbLUXvm4riZL0aepy90o0vMesn.jpg" group-title="Movies",Jackie Brown
-http://103.205.233.70/Data/Disk1/Hollywood/1900_1999/Jackie%20Brown%20%281997%29/Jackie_Brown_1997_1080p_Bluray_10bit_x265_AAC-HazMatt.mkv
+http://dl5.sermovie.xyz/Movies/1997/Jackie.Brown/Jackie.Brown.1997.720p.BrRip.x264.YIFY.Sermovie.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Face/Off (1997)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aYZDYdiMym5xEkSs4BrJMXFdZ9g.jpg" group-title="Movies",Face/Off (1997)
-http://103.205.233.70/Data/Disk1/Hollywood/1900_1999/Face%20Off%20%281997%29/Face.Off.1997.1080p.BrRip.x264.YIFY.mp4
+http://dl1.sermovie.xyz/Movies/1997/Face.Off/Face.Off.1997.720p.BrRip.x264.YIFY.Sermovie.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Equal Standard (2020)" tvg-logo="https://image.tmdb.org/t/p/original//UwKGzJjKBdPadVAsC7Bucy188h.jpg" group-title="New Movies",Equal Standard
 http://103.135.208.2/Data/movies/Hollywood/2020/Equal%20Standard%20%282020%29/Equal.Standard.2020.HDRip.XviD.AC3.LLG.mp4
@@ -779,19 +779,19 @@ http://103.205.233.70/Data/Disk1/Hollywood/1900_1999/Beverly%20Hills%20Cop%20II%
 http://167.114.174.132:9092/movies/batch233/Alien%20Director%27s%20Cut%201979.720p.BrRip.x264.YIFY.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Aliens (1986)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qzm3nKhyc9DEiJJ2EBccIHpYM3W.jpg" group-title="Alien & Predator Box",Aliens
-http://103.205.233.70/Data/Disk1/Hollywood/1900_1999/Aliens%20%281986%29/Aliens.Directors.Cut.1986.1080p.BRrip.x264.GAZ.YIFY.mp4
+http://dl1.sermovie.xyz/Movies/1986/Aliens/Aliens.Directors.Cut.1986.720p.BRrip.x264.GAZ.YIFY.Sermovie.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Alien 3 (1992)" tvg-logo="https://image.tmdb.org/t/p/original//eEWPeAUo7hQxOwTk0uSg1xpzCut.jpg" group-title="Alien & Predator Box",Alien 3
-http://103.205.233.70/Data/Disk1/Hollywood/1900_1999/Alien%203%20Special%20Edition%20%281992%29/Alien%203%20Special%20Edition%201992.720p.BrRip.x264.YIFY.mp4
+http://167.114.174.132:9092/movies/batch233/Alien%203%20Special%20Edition%201992.720p.BrRip.x264.YIFY.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Alien: Resurrection (1997)" tvg-logo="https://image.tmdb.org/t/p/original//13162IOGtPQaZgnnY3raCJbUsW5.jpg" group-title="Alien & Predator Box",Alien: Resurrection
 http://167.114.174.132:9092/movies/batch233/Alien%204%20Resurrection%20Special%20Edition%201997.720p.BrRip.x264.YIFY.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Prometheus (2012)" tvg-logo="https://image.tmdb.org/t/p/original//m7nZCtHJyDLncBUarfM5h5mrppx.jpg" group-title="Alien & Predator Box",Prometheus
-http://103.205.233.70/Data/Disk1/Hollywood/2011_2015/Prometheus%20%282012%29/Prometheus_2012__DVDrip__BDPLEX.mkv
+http://173.249.48.243/movies2/07%20Prometheus%20-%20Sci-Fi%202012%20Eng%20Subs%20720p%20%5bH264-mp4%5d.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Alien: Covenant (2017)" tvg-logo="https://image.tmdb.org/t/p/original//zecMELPbU5YMQpC81Z8ImaaXuf9.jpg" group-title="Alien & Predator Box",Alien: Covenant
-http://103.205.233.70/Data/Disk5/Hollywood/English_Movies_2017/Alien%20Covenant%20%282017%29/Alien%20Covenant%20%282017%29%20%5B1080p%5D%20BluRay.mp4
+http://103.135.208.2/Data/movies/Hollywood/2017/Alien%20Covenant%20%282017%29/Alien%20Covenant%20%282017%29.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Predator (1987)" tvg-logo="https://image.tmdb.org/t/p/original//iieEddHTv5zzTyr7OnN5ULOu7bI.jpg" group-title="Alien & Predator Box",Predator
 http://167.114.174.132:9092/movies/Batch231/Predator.1987.BrRip.720p.x264.YIFY.mkv
@@ -800,16 +800,16 @@ http://167.114.174.132:9092/movies/Batch231/Predator.1987.BrRip.720p.x264.YIFY.m
 http://167.114.174.132:9092/movies/Batch231/Predator.2.1990.720p.BrRip.x264.bitloks.YIFY.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Predators (2010)" tvg-logo="https://image.tmdb.org/t/p/original//gsnUhWMYLSD8VZS7nrMT9mj9BYr.jpg" group-title="Alien & Predator Box",Predators
-http://103.205.233.70/Data/Disk1/Hollywood/2006_2010/Predators%20%282010%29/Predators_2010__BRrip__BDPLEX.mkv
+http://dl3.sermovie.xyz/Movies/2010/Predators/Predators.2010.720p.BluRay.x264.YTS.Sermovie.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="The Predator (2018)" tvg-logo="https://image.tmdb.org/t/p/original//wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg" group-title="Alien & Predator Box",The Predator
-http://103.205.233.70/Data/Disk5/Hollywood/English_Movies_2018/The%20Predator%20%282018%29/The%20Predator%20%282018%29%20%5B1080p%5D%20WEBRip.mp4
+http://abcmoviesbd.com/Data/Movies/English/Disk-1/2018/The%20Predator%20%282018%29/The.Predator.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="AVP: Alien vs. Predator (2004)" tvg-logo="https://image.tmdb.org/t/p/original//qUZctuoFL3VKOqeKxhnLwuEE4oF.jpg" group-title="Alien & Predator Box",Alien vs. Predator
-http://103.205.233.70/Data/Disk1/Hollywood/2000_2005/Alien%20vs%20Predator%20%282004%29/Alien%20vs%20Predator%20%282004%29%20%5B1080p%5D.mp4
+http://173.249.48.243/movies2/05%20Alien%20Verses%20Predator%20Unrated%20-%20Sci-Fi%202004%20Eng%20Subs%20720p%20%5bH264-mp4%5d.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Aliens vs Predator: Requiem (2007)" tvg-logo="https://image.tmdb.org/t/p/original//jCyJN1vj8jqJJ0vNw4hDH2KlySO.jpg" group-title="Alien & Predator Box",Aliens vs Predator: Requiem
-http://103.205.233.70/Data/Disk1/Hollywood/2006_2010/Aliens%20vs%20Predator%20Requiem%20%282007%29/Aliens.vs.Predator.Requiem.2007.BluRay.1080p.x264.AAC.ShAaNiG_BDPLEX.mp4
+http://173.249.48.243/movies2/06%20Alien%20Verses%20Predator%20Requiem%20Unrated%20-%20Sci-Fi%202007%20Eng%20Subs%20720p%20%5bH264-mp4%5d.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="The Untouchables (1987)" tvg-logo="https://image.tmdb.org/t/p/original//8BquGK22zCcsmBWiaIakaaPpSZb.jpg" group-title="Movies",The Untouchables
 http://176.9.83.151/English%20Movies/The.Untouchables.1987.720p.BluRay.999MB.HQ.x265.10bit-GalaxyRG.mkv
@@ -851,19 +851,19 @@ http://103.135.208.2/Data/movies/Hollywood/2008/Hancock%20%282008%29/Hancock%20%
 http://103.135.208.2/Data/movies/Hollywood/2006/Running%20Scared%20%282006%29/Running%20Scared%20%282006%29.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Die Hard (1988)" tvg-logo="https://image.tmdb.org/t/p/original//yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg" group-title="Die Hard Collection",Die Hard
-http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Die%20Hard%201%20%281988%29/Die%20Hard%201%201988.mkv
+http://dl1.sermovie.xyz/Movies/1988/Die.Hard/Die.Hard.1988.720p.BrRip.x264.bitloks.YIFY.Sermovie.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Die Hard 2 (1990)" tvg-logo="https://image.tmdb.org/t/p/original//wUEizkONxPZmIWQ2lnMttW0suXH.jpg" group-title="Die Hard Collection",Die Hard 2
-http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Die%20Hard%202%20%281990%29/Die%20Hard%202%201990.mkv
+http://dl1.sermovie.xyz/Movies/1990/Die.Hard.2/Die.Hard.2.1990.720p.BrRip.x264.bitloks.YIFY.Sermovie.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Die Hard: With a Vengeance (1995)" tvg-logo="https://image.tmdb.org/t/p/original//amwo4CjYKynZ2yKvKMxoiRSsaE1.jpg" group-title="Die Hard Collection",Die Hard: With a Vengeance
-http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Die%20Hard%20-%20With%20a%20Vengeance%20%281995%29/Die%20Hard%20-%20With%20a%20Vengeance%201995.mkv
+http://103.133.135.242/Data/movies/hollywood/1995/Die%20Hard%3A%20With%20a%20Vengeance%20%281995%29/Die%20Hard%20With%20a%20Vengeance%20%281995%29%20%5B1080p%5D%20BluRay.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Live Free or Die Hard (2007)" tvg-logo="https://image.tmdb.org/t/p/original//31TT47YjBl7a7uvJ3ff1nrirXhP.jpg" group-title="Die Hard Collection",Live Free or Die Hard
-http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Live%20Free%20or%20Die%20Hard%202007/Live%20Free%20or%20Die%20Hard%202007.mkv
+http://dl3.sermovie.xyz/Movies/2007/Die.Hard.4/Die.Hard.4.2007.720p.BrRip.x264.bitloks.YTS.Sermovie.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="A Good Day to Die Hard (2013)" tvg-logo="https://image.tmdb.org/t/p/original//qLxuRRNqGt5x4dFRYoG5O9mbEwW.jpg" group-title="Die Hard Collection",A Good Day to Die Hard
-http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/A%20Good%20Day%20to%20Die%20Hard%20%282013%29/A%20Good%20Day%20to%20Die%20Hard%202013%20BRRip.mkv
+http://103.135.208.2/Data/movies/Hollywood/2013/A%20Good%20Day%20To%20Die%20Hard%20%282013%29/A%20Good%20Day%20To%20Die%20Hard%20%282013%29.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Blade (1998)" tvg-logo="https://image.tmdb.org/t/p/original//e6ErRnIgKmoBtcKpht3amsMfo52.jpg" group-title="Blade Collection",Blade
 http://103.205.233.70/Data/Disk5/Hollywood/Top%20Movie%20Boxset/Blade%20%281998%29/Blade%201998.mkv    
