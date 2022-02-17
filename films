@@ -1,5 +1,8 @@
 group-title="New Movies"
 
+#EXTINF:-1 tvg-id="" tvg-name="Scream (2022)" tvg-logo="https://image.tmdb.org/t/p/original//kZNHR1upJKF3eTzdgl5V8s8a4C3.jpg" group-title="Movies",Scream
+https://www.cdn6.dlmvz.ir/b6/film/scream.2022.720p.webrip.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Kimi (2022)" tvg-logo="https://image.tmdb.org/t/p/original//okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg" group-title="New Movies",Kimi
 http://dl6.sermovie.xyz/Movie/2021/Kimi/Kimi.2022.720p.HMAX.WEBRip.800MB.x264-GalaxyRG.Sermovie.mkv
 
