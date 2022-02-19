@@ -1,6 +1,12 @@
 group-title="New Movies"
 
-#EXTINF:-1 tvg-id="" tvg-name="Scream (2022)" tvg-logo="https://image.tmdb.org/t/p/original//kZNHR1upJKF3eTzdgl5V8s8a4C3.jpg" group-title="Movies",Scream
+#EXTINF:-1 tvg-id="" tvg-name="Fistful of Vengeance 2022" tvg-logo="https://image.tmdb.org/t/p/original//3cccEF9QZgV9bLWyupJO41HSrOV.jpg" group-title="New Movies",Fistful of Vengeance
+https://www.cdn6.dlmvz.ir/b6/film/fistful.of.vengeance.2022.720p.webrip.x264.aac-%5Byts.mx%5D.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Texas Chainsaw Massacre 2022" tvg-logo="https://image.tmdb.org/t/p/original//meRIRfADEGVo65xgPO6eZvJ0CRG.jpg" group-title="New Movies",Texas Chainsaw Massacre
+https://www.cdn6.dlmvz.ir/b6/film/texas.chainsaw.massacre.2022.720p.webrip.x264.aac-%5Byts.mx%5D.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Scream (2022)" tvg-logo="https://image.tmdb.org/t/p/original//kZNHR1upJKF3eTzdgl5V8s8a4C3.jpg" group-title="New Movies",Scream
 https://www.cdn6.dlmvz.ir/b6/film/scream.2022.720p.webrip.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Kimi (2022)" tvg-logo="https://image.tmdb.org/t/p/original//okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg" group-title="New Movies",Kimi
