@@ -1,6 +1,6 @@
 group-title="New Movies"
 
-#EXTINF:-1 tvg-id="" tvg-name="A Day To Die (2022)" tvg-logo="https://image.tmdb.org/t/p/original//8Kce1utfytAG5m1PbtVoDzmDZJH.jpg" group-title="Movies",A Day To Die
+#EXTINF:-1 tvg-id="" tvg-name="A Day To Die (2022)" tvg-logo="https://image.tmdb.org/t/p/original//8Kce1utfytAG5m1PbtVoDzmDZJH.jpg" group-title=" New Movies",A Day To Die
 http://103.135.208.2/Data/movies/Hollywood/2022/A%20Day%20To%20Die%20%282022%29/A.Day.To.Die.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Tyler Perrys A Madea Homecoming (2022)" tvg-logo="https://image.tmdb.org/t/p/original//vzX5GNRTXsAltdU1tfASmZbzYmv.jpg" group-title="New Movies",Tyler Perrys A Madea Homecoming
