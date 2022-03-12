@@ -1,5 +1,8 @@
 group-title="New Movies"
 
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man No Way Home (2021)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg" group-title="New Movies",Spider-Man No Way Home
+http://dl2.sermovie.xyz/Movies/2022/Spider-Man.No.Way.Home/Spider-Man.No.Way.Home.2022.1080p.BluRay.1600MB.DD5.1.x264-GalaxyRG.Sermovie.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="A Day To Die (2022)" tvg-logo="https://image.tmdb.org/t/p/original//8Kce1utfytAG5m1PbtVoDzmDZJH.jpg" group-title="New Movies",A Day To Die
 http://103.135.208.2/Data/movies/Hollywood/2022/A%20Day%20To%20Die%20%282022%29/A.Day.To.Die.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 
