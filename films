@@ -1,5 +1,8 @@
 group-title="New Movies"
 
+#EXTINF:-1 tvg-id="" tvg-name="Cheaper By The Dozen (2022)" tvg-logo="https://image.tmdb.org/t/p/original//qNRsouZh5zmhaE3n4QpLDXzy1gQ.jpg" group-title=" New Movies",Cheaper By The Dozen
+http://khulnaplex.net/Data/movies/hollywood/2022/Cheaper%20By%20The%20Dozen%20%282022%29/Cheaper.By.The.Dozen.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Deep Water (2022)" tvg-logo="https://image.tmdb.org/t/p/original//6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg" group-title="Movies",Deep Water
 http://dl6.sermovie.xyz/Movie/2021/Deep.Water/Deep.Water.2022.REPACK.720p.WEBRip.x264.AAC-YTS.Sermovie.mp4
 
