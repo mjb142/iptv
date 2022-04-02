@@ -1,5 +1,11 @@
 group-title="New Movies"
 
+#EXTINF:-1 tvg-id="" tvg-name="Moonfall (2022)" tvg-logo="https://image.tmdb.org/t/p/original//odVv1sqVs0KxBXiA8bhIBlPgalx.jpg" group-title="New Movies",Moonfall
+http://khulnaplex.net/Data/movies/hollywood/2022/Moonfall%20%282022%29/Moonfall.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Contractor (2022)" tvg-logo="https://image.tmdb.org/t/p/original//rJPGPZ5soaG27MK90oKpioSiJE2.jpg" group-title="New Movies",The Contractor
+http://khulnaplex.net/Data/movies/hollywood/2022/The%20Contractor%20%282022%29/The.Contractor.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Jackass Forever (2022)" tvg-logo="https://image.tmdb.org/t/p/original//ugIdyvtAzHWOguD91UjHKoAvfum.jpg" group-title="New Movies",Jackass Forever
 http://abistation.net/Data/movies/hollywood/2022/Jackass%20Forever%20%282022%29/Jackass.Forever.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 
