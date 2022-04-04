@@ -9,7 +9,7 @@ http://khulnaplex.net/Data/movies/hollywood/2022/The%20Contractor%20%282022%29/T
 #EXTINF:-1 tvg-id="" tvg-name="Jackass Forever (2022)" tvg-logo="https://image.tmdb.org/t/p/original//ugIdyvtAzHWOguD91UjHKoAvfum.jpg" group-title="New Movies",Jackass Forever
 http://abistation.net/Data/movies/hollywood/2022/Jackass%20Forever%20%282022%29/Jackass.Forever.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Cheaper By The Dozen (2022)" tvg-logo="https://image.tmdb.org/t/p/original//qNRsouZh5zmhaE3n4QpLDXzy1gQ.jpg" group-title=" New Movies",Cheaper By The Dozen
+#EXTINF:-1 tvg-id="" tvg-name="Cheaper By The Dozen (2022)" tvg-logo="https://image.tmdb.org/t/p/original//qNRsouZh5zmhaE3n4QpLDXzy1gQ.jpg" group-title="New Movies",Cheaper By The Dozen
 http://khulnaplex.net/Data/movies/hollywood/2022/Cheaper%20By%20The%20Dozen%20%282022%29/Cheaper.By.The.Dozen.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Deep Water (2022)" tvg-logo="https://image.tmdb.org/t/p/original//6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg" group-title="Movies",Deep Water
@@ -222,7 +222,23 @@ http://73.82.182.197/Movies/Birds.of.Prey.And.the.Fantabulous.Emancipation.of.On
 #EXTINF:-1 tvg-id="" tvg-name="Bloodshot (2020)" tvg-logo="https://image.tmdb.org/t/p/original//8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg" group-title="New Movies",Bloodshot
 http://73.82.182.197/Movies/Bloodshot.2020.1080p.WEB-DL.x264-Leader.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek (2009)" tvg-logo="https://image.tmdb.org/t/p/original//lV5OpzAss1z06YNagOVap1I35mH.jpg" group-title="Movies",Star Trek
+http://59.153.203.202/Data/movies/hollywood/2009/Star%20Trek%20%282009%29%20%5B1080p%5D/Star.Trek.2009.1080p.BrRip.x264.YIFY.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Into Darkness (2013)" tvg-logo="https://image.tmdb.org/t/p/original//7XrRkhMa9lQ71RszzSyVrJVvhyS.jpg" group-title="Movies",Star Trek Into Darkness 
+http://59.153.203.202/Data/movies/hollywood/2013/Star%20Trek%20Into%20Darkness%20%282013%29/Star%20Trek%20Into%20Darkness%20%282013%29.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Beyond (2016)" tvg-logo="https://image.tmdb.org/t/p/original//cnQp8GmOWahIgQaH60Kwez3TNzw.jpg" group-title="Movies",Star Trek Beyond
+http://59.153.203.202/Data/movies/hollywood/2016/Star%20Trek%20Beyond%20%282016%29/Star.Trek.Beyond.2016__1080p.BRrip__BDPLEX.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="300 (2006)" tvg-logo="https://image.tmdb.org/t/p/original//9W49fy5G7v9Ed3CXtvMi41YqZtt.jpg" group-title="Movies",300
+http://dl2.sermovie.xyz/Movies/2006/300/300.2006.720p.BluRay.x264.YTS.Sermovie.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="300 Rise of an Empire (2014)" tvg-logo="https://image.tmdb.org/t/p/original//dfmIok6B1sUW642zyiCtbnBRCoW.jpg" group-title="Movies",300 Rise of an Empire
+http://59.153.203.202/Data/movies/hollywood/2014/300%20Rise%20of%20an%20Empire%20%282014%29/300%20Rise%20of%20an%20Empire%20%282014%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kingdom of Heaven (2005)" tvg-logo="https://image.tmdb.org/t/p/original//uk55nBEFIQFveIiy9jvLGiVtk4h.jpg" group-title="Movies",Kingdom of Heaven
+http://dl2.sermovie.xyz/Movies/2005/Kingdom.of.Heaven/Kingdom.of.Heaven.2005.Directors.Cut.720p.BrRip.x264.YTS.Sermovie.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Black and Blue (2019)" tvg-logo="https://image.tmdb.org/t/p/original//1cSHEKYYP8Dpi4o1iBVd4U75FYt.jpg" group-title="Movies",Black and Blue
 http://73.82.182.197/Movies/Black.And.Blue.2019.1080p.BluRay.mkv
@@ -261,7 +277,7 @@ http://rmeyer.comelitdns.com/Movies/F9%20(2021)%20%5b1080p%5d%20%5bWEBRip%5d%20%
 group-title="John Wick Collection"
 
 #EXTINF:-1 tvg-id="" tvg-name="John Wick (2014)" tvg-logo="https://image.tmdb.org/t/p/original//fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg" group-title="John Wick Collection",John Wick 
-http://103.135.208.2/Data/movies/Hollywood/2014/John%20Wick%20%282014%29/John%20Wick%20%282014%29.mkv
+http://abistation.net/Data/movies/hollywood/2011-2018/John%20Wick%20%282014%29/John.Wick.2014.1080p.BluRay.x264-%5BYTS.AG%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="John Wick: Chapter 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/original//hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg" group-title="John Wick Collection",John Wick: Chapter 2
 http://59.153.203.202/Data/movies/hollywood/2017/John%20Wick%20Chapter%202%20%282017%29/John.Wick.Chapter.2.2017.1080p.HD.mp4
