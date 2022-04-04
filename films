@@ -222,26 +222,7 @@ http://73.82.182.197/Movies/Birds.of.Prey.And.the.Fantabulous.Emancipation.of.On
 #EXTINF:-1 tvg-id="" tvg-name="Bloodshot (2020)" tvg-logo="https://image.tmdb.org/t/p/original//8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg" group-title="New Movies",Bloodshot
 http://73.82.182.197/Movies/Bloodshot.2020.1080p.WEB-DL.x264-Leader.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek (2009)" tvg-logo="https://image.tmdb.org/t/p/original//lV5OpzAss1z06YNagOVap1I35mH.jpg" group-title="Movies",Star Trek
-http://59.153.203.202/Data/movies/hollywood/2009/Star%20Trek%20%282009%29%20%5B1080p%5D/Star.Trek.2009.1080p.BrRip.x264.YIFY.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek Into Darkness (2013)" tvg-logo="https://image.tmdb.org/t/p/original//7XrRkhMa9lQ71RszzSyVrJVvhyS.jpg" group-title="Movies",Star Trek Into Darkness 
-http://59.153.203.202/Data/movies/hollywood/2013/Star%20Trek%20Into%20Darkness%20%282013%29/Star%20Trek%20Into%20Darkness%20%282013%29.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek Beyond (2016)" tvg-logo="https://image.tmdb.org/t/p/original//cnQp8GmOWahIgQaH60Kwez3TNzw.jpg" group-title="Movies",Star Trek Beyond
-http://59.153.203.202/Data/movies/hollywood/2016/Star%20Trek%20Beyond%20%282016%29/Star.Trek.Beyond.2016__1080p.BRrip__BDPLEX.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="300 (2006)" tvg-logo="https://image.tmdb.org/t/p/original//9W49fy5G7v9Ed3CXtvMi41YqZtt.jpg" group-title="Movies",300
-http://dl2.sermovie.xyz/Movies/2006/300/300.2006.720p.BluRay.x264.YTS.Sermovie.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="300 Rise of an Empire (2014)" tvg-logo="https://image.tmdb.org/t/p/original//dfmIok6B1sUW642zyiCtbnBRCoW.jpg" group-title="Movies",300 Rise of an Empire
-http://59.153.203.202/Data/movies/hollywood/2014/300%20Rise%20of%20an%20Empire%20%282014%29/300%20Rise%20of%20an%20Empire%20%282014%29.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Kingdom of Heaven (2005)" tvg-logo="https://image.tmdb.org/t/p/original//uk55nBEFIQFveIiy9jvLGiVtk4h.jpg" group-title="Movies",Kingdom of Heaven
-http://dl2.sermovie.xyz/Movies/2005/Kingdom.of.Heaven/Kingdom.of.Heaven.2005.Directors.Cut.720p.BrRip.x264.YTS.Sermovie.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Black and Blue (2019)" tvg-logo="https://image.tmdb.org/t/p/original//1cSHEKYYP8Dpi4o1iBVd4U75FYt.jpg" group-title="Movies",Black and Blue
-http://73.82.182.197/Movies/Black.And.Blue.2019.1080p.BluRay.mkv
 
 
 group-title="The Fast and the Furious Collection"
@@ -427,6 +408,27 @@ http://167.114.174.132:9092/movies/Batch211/Jason.Bourne.2016.720p.BluRay.x264-%
 
 
 group-title="MOVIES"
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek (2009)" tvg-logo="https://image.tmdb.org/t/p/original//lV5OpzAss1z06YNagOVap1I35mH.jpg" group-title="Movies",Star Trek
+http://59.153.203.202/Data/movies/hollywood/2009/Star%20Trek%20%282009%29%20%5B1080p%5D/Star.Trek.2009.1080p.BrRip.x264.YIFY.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Into Darkness (2013)" tvg-logo="https://image.tmdb.org/t/p/original//7XrRkhMa9lQ71RszzSyVrJVvhyS.jpg" group-title="Movies",Star Trek Into Darkness 
+http://59.153.203.202/Data/movies/hollywood/2013/Star%20Trek%20Into%20Darkness%20%282013%29/Star%20Trek%20Into%20Darkness%20%282013%29.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Beyond (2016)" tvg-logo="https://image.tmdb.org/t/p/original//cnQp8GmOWahIgQaH60Kwez3TNzw.jpg" group-title="Movies",Star Trek Beyond
+http://59.153.203.202/Data/movies/hollywood/2016/Star%20Trek%20Beyond%20%282016%29/Star.Trek.Beyond.2016__1080p.BRrip__BDPLEX.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="300 (2006)" tvg-logo="https://image.tmdb.org/t/p/original//9W49fy5G7v9Ed3CXtvMi41YqZtt.jpg" group-title="Movies",300
+http://dl2.sermovie.xyz/Movies/2006/300/300.2006.720p.BluRay.x264.YTS.Sermovie.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="300 Rise of an Empire (2014)" tvg-logo="https://image.tmdb.org/t/p/original//dfmIok6B1sUW642zyiCtbnBRCoW.jpg" group-title="Movies",300 Rise of an Empire
+http://59.153.203.202/Data/movies/hollywood/2014/300%20Rise%20of%20an%20Empire%20%282014%29/300%20Rise%20of%20an%20Empire%20%282014%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kingdom of Heaven (2005)" tvg-logo="https://image.tmdb.org/t/p/original//uk55nBEFIQFveIiy9jvLGiVtk4h.jpg" group-title="Movies",Kingdom of Heaven
+http://dl2.sermovie.xyz/Movies/2005/Kingdom.of.Heaven/Kingdom.of.Heaven.2005.Directors.Cut.720p.BrRip.x264.YTS.Sermovie.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Black and Blue (2019)" tvg-logo="https://image.tmdb.org/t/p/original//1cSHEKYYP8Dpi4o1iBVd4U75FYt.jpg" group-title="Movies",Black and Blue
+http://73.82.182.197/Movies/Black.And.Blue.2019.1080p.BluRay.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Boo! A Madea Halloween (2016)" tvg-logo="https://image.tmdb.org/t/p/original//eq1jD9QwhrZCFeaT1BudIsKzlwp.jpg" group-title="Movies",Boo! A Madea Halloween 
 http://167.114.174.132:9092/movies/BATCH217/Boo%21.A.Madea.Halloween.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
@@ -665,6 +667,27 @@ http://abcmoviesbd.com/Data/Movies/English/Disk-1/2013/World%20War%20Z%20%282013
 #EXTINF:-1 tvg-id="" tvg-name="Den of Thieves (2018)" tvg-logo="https://image.tmdb.org/t/p/original//AfybH6GbGFw1F9bcETe2yu25mIE.jpg" group-title="Movies",Den of Thieves
 http://abcmoviesbd.com/Data/Movies/English/Disk-1/2018//Den%20Of%20Thieves%20(2018)/Den%20Of%20Thieves.2018.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Avatar (2009)" tvg-logo="https://image.tmdb.org/t/p/original//jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg" group-title="Movies",Avatar
+http://abistation.net/Data/movies/hollywood/2001-2010/Avatar%20ECE%20%282009%29/Avatar.ECE.2009.1080p.BrRip.x264.bitloks.YIFY.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Battle Los Angeles (2011)" tvg-logo="https://image.tmdb.org/t/p/original//jloyGeVYZSxM9zsLFvVOWuj2ey4.jpg" group-title="Movies",Battle Los Angeles
+http://dl3.sermovie.xyz/Movies/2011/Battle.Los.Angeles/Battle.Los.Angeles.2011.1080p.BluRay.x264.YTS.Sermovie.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Gladiator (2000)" tvg-logo="https://image.tmdb.org/t/p/original//ehGpN04mLJIrSnxcZBMvHeG0eDc.jpg" group-title="Movies",Gladiator
+http://dl2.sermovie.xyz/Movies/2000/Gladiator/Gladiator.EXTENDED.REMASTERED.2000.720p.YIFY.Sermovie.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Jupiter Ascending (2015)" tvg-logo="https://image.tmdb.org/t/p/original//2NCcAZ3M3F0FxENYmammBknwpVn.jpg" group-title="Movies",Jupiter Ascending
+http://59.153.203.202/Data/movies/hollywood/2015/Jupiter%20Ascending%20%282015%29/Jupiter_Ascending_2015_1080p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Great Wall (2016)" tvg-logo="https://image.tmdb.org/t/p/original//p70dq1YxabemdZDm5K6Q8G10wSn.jpg" group-title="Movies",The Great Wall
+http://dl1.sermovie.xyz/Movies/2016/The.Great.Wall/The.Great.Wall.2016.720p.BluRay.x264.YTS.Sermovie.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Last Airbender (2010)" tvg-logo="https://image.tmdb.org/t/p/original//zgwRTYWEEPivTwjB9S03HtmMcbM.jpg" group-title="Movies",The Last Airbender 
+http://59.153.203.202/Data/movies/hollywood/2010/The%20Last%20Airbender%20%282010%29%20%5B1080p%5D/The.Last.Airbender.2010.1080p.BrRip.x264.YIFY.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Salt (2010)" tvg-logo="https://image.tmdb.org/t/p/original//ppXyhOe8UCEOrBRSYqE3SkHwrcR.jpg" group-title="Movies",Salt
+http://59.153.203.202/Data/movies/hollywood/2010/Salt%20DIRECTORS%20CUT%20%282010%29%20%5B1080p%5D/Salt.DIRECTORS.CUT.2010.1080p.BrRip.x264.BOKUTOX.YIFY.mp4
+
 
 group-title="DC Universe Animated Original Movies"
 
@@ -814,7 +837,7 @@ http://dl1.sermovie.xyz/Movies/2019/Fast.And.Furious.Presents.Hobbs.And.Shaw/Fas
 http://abcmoviesbd.com/Data/Movies/English/Disk-1/2013/2%20Guns%20%282013%29/2%20Guns%20%282013%29%20BRRip.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Pulp Fiction (1994)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg" group-title="Movies",Pulp Fiction
-http://dl1.sermovie.xyz/Movies/1994/Pulp.Fiction/Pulp.Fiction.1994.720p.BluRay.999MB.HQ.x265.10bit-GalaxyRG.Sermovie.mkv
+http://2cintz.net/movies/Pulp%20Fiction%20(1994)/Pulp%20Fiction%20(1999).mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Jackie Brown (1997)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ewbLUXvm4riZL0aepy90o0vMesn.jpg" group-title="Movies",Jackie Brown
 http://dl5.sermovie.xyz/Movies/1997/Jackie.Brown/Jackie.Brown.1997.720p.BrRip.x264.YIFY.Sermovie.mkv
@@ -955,13 +978,13 @@ http://dl3.sermovie.xyz/Movies/2011/The.Hangover.Part.II/The.Hangover.Part.II.20
 http://103.152.18.18/Data/English/hollywood/2013/The%20Hangover%20Part%20III%20%282013%29/The%20Hangover%20Part%20III%20%282013%29.mp4
               
 #EXTINF:-1 tvg-id="" tvg-name="Pitch Black (2000)" tvg-logo="https://theposterdb.com/api/assets/26842/view" group-title="Riddick: The Complete Collection",Pitch Black
-http://109.120.203.163/lvm/science%20fiction/Riddick%20Trilogy%20DC%202000-2004-2013%20720p%20BluRay%20HEVC%20H265%20BONE/Pitch%20Black%202000%20Remastered%20DC%20720p%20BluRay%20HEVC%20H265%20BONE.mp4
+hhttp://dl2.sermovie.xyz/Movies/2000/Pitch.Black/Pitch.Black.2000.BluRay.1080p.x264.YTS.Sermovie.mp4
         
 #EXTINF:-1 tvg-id="" tvg-name="Chronicles of Riddick (2004)" tvg-logo="https://image.tmdb.org/t/p/original//iSaB7jBgsU6sXqKneZpdeRw5MSV.jpg" group-title="Riddick: The Complete Collection",Chronicles of Riddick     
-http://109.120.203.163/lvm/science%20fiction/Riddick%20Trilogy%20DC%202000-2004-2013%20720p%20BluRay%20HEVC%20H265%20BONE/The%20Chronicles%20Of%20Riddick%202004%20DC%20720p%20BluRay%20HEVC%20H265%20BONE.mp4
+http://2cintz.net/movies/The%20Chronicles%20of%20Riddick%20(2004)/The%20Chronicles%20of%20Riddick.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Riddick (2013)" tvg-logo="https://image.tmdb.org/t/p/original//xhdDd6Gd6EaPBwNdCjNW2HCnIQY.jpg" group-title="Riddick: The Complete Collection",Riddick
-http://109.120.203.163/lvm/science%20fiction/Riddick%20Trilogy%20DC%202000-2004-2013%20720p%20BluRay%20HEVC%20H265%20BONE/The%20Chronicles%20Of%20Riddick%202004%20DC%20720p%20BluRay%20HEVC%20H265%20BONE.mp4
+http://84.22.44.211/09.09/Riddick%20(2013)%20[1080p]/Riddick.2013.1080p.BluRay.x264.YIFY.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Oceans 11 (2011)" tvg-logo="https://image.tmdb.org/t/p/original//v5D7K4EHuQHFSjveq8LGxdSfrGS.jpg" group-title="Ocean's Trilogy",Oceans 11
 http://103.152.18.18/Data/English/hollywood/2001/Ocean%27s%20Eleven%20%282001%29/Oceans%20Eleven%20%282001%29.mkv
