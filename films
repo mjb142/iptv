@@ -691,6 +691,8 @@ http://59.153.203.202/Data/movies/hollywood/2010/Salt%20DIRECTORS%20CUT%20%28201
 #EXTINF:-1 tvg-id="" tvg-name="2012 (2009)" tvg-logo="https://image.tmdb.org/t/p/original//8i1xFqcItT6GKEbY6VDbFnxe7sJ.jpg" group-title="Movies",2012
 http://59.153.203.202/Data/movies/hollywood/2009/2012%20%282009%29%20%5B1080p%5D/2012.2009.BluRay.1080p.x264.YIFY.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Harlem Nights (1989)" tvg-logo="https://www.themoviedb.org/t/p/original/PLr00Pv1DpQ3vMssBkjgAPS1Fy.jpg" group-title="Movies",Harlem Nights
+https://nl32.seedr.cc/ff_get/1143583111/Harlem%20Nights.mp4?st=oqxusRRjsnCqRGK8Z9cl0Q&e=1649604857
 
 
 group-title="DC Universe Animated Original Movies"
