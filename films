@@ -1,25 +1,28 @@
 group-title="New Movies"
 
+#EXTINF:-1 tvg-id="" tvg-name="The Batman (2022)" tvg-logo="https://image.tmdb.org/t/p/original//74xTEgt7R36Fpooo50r9T25onhq.jpg" group-title="New Movies",The Batman
+http://www.movieserver.net/movies/english/part-5/2022/The%20Batman%20(2022)%20-%201080p%20WEBRip.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Alice (2022)" tvg-logo="https://image.tmdb.org/t/p/original//7akDcAHfp7Lkmuq2ygzNzOhWq8M.jpg" group-title="New Movies",Alice
-https://nw14.seedr.cc/ff_get/1144328751/Alice.2022.mkv?st=OWmLm44_StrgZLTWQVV9Vw&e=1649702805
+http://www.movieserver.net/movies/english/part-5/2022/Alice%20(2022)%20-%201080p%20WEBRip.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="All the Old Knives (2022)" tvg-logo="https://image.tmdb.org/t/p/original//g4tMniKxol1TBJrHlAtiDjjlx4Q.jpg" group-title="New Movies",All the Old Knives
-https://nw14.seedr.cc/ff_get/1143809191/All.The.Old.Knives.2022.mp4?st=CXjVf4SgLqS4ENcXbG3JFg&e=1649647525
+http://www.movieserver.net/movies/english/part-5/2022/All%20The%20Old%20Knives%20(2022)%20-%201080p%20WEBRip.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="The Outfit (2022)" tvg-logo="https://image.tmdb.org/t/p/original//zbGN4QBrKoT3HO7etj4FvlM3OZb.jpg" group-title="New Movies",The Outfit
-https://nl25.seedr.cc/ff_get/1143811341/The.Outfit.2022.mp4?st=yvWh9BWHY0MARuJBY7UH3g&e=1649630070
+http://www.movieserver.net/movies/english/part-5/2022/The%20Outfit%20(2022)%20-%201080p%20BluRay.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Moonfall (2022)" tvg-logo="https://image.tmdb.org/t/p/original//odVv1sqVs0KxBXiA8bhIBlPgalx.jpg" group-title="New Movies",Moonfall
-http://khulnaplex.net/Data/movies/hollywood/2022/Moonfall%20%282022%29/Moonfall.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+http://www.movieserver.net/movies/english/part-5/2022/Moonfall%20(2022)%20-%201080p%20BluRay.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="The Contractor (2022)" tvg-logo="https://image.tmdb.org/t/p/original//rJPGPZ5soaG27MK90oKpioSiJE2.jpg" group-title="New Movies",The Contractor
-http://khulnaplex.net/Data/movies/hollywood/2022/The%20Contractor%20%282022%29/The.Contractor.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+http://103.135.208.2/Data/movies/Hollywood/2022/The%20Contractor%20%282022%29/The.Contractor.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Jackass Forever (2022)" tvg-logo="https://image.tmdb.org/t/p/original//ugIdyvtAzHWOguD91UjHKoAvfum.jpg" group-title="New Movies",Jackass Forever
-http://abistation.net/Data/movies/hollywood/2022/Jackass%20Forever%20%282022%29/Jackass.Forever.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+http://103.135.208.2/Data/movies/Hollywood/2022/Jackass%20Forever%20%282022%29/Jackass.Forever.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Cheaper By The Dozen (2022)" tvg-logo="https://image.tmdb.org/t/p/original//qNRsouZh5zmhaE3n4QpLDXzy1gQ.jpg" group-title="New Movies",Cheaper By The Dozen
-http://khulnaplex.net/Data/movies/hollywood/2022/Cheaper%20By%20The%20Dozen%20%282022%29/Cheaper.By.The.Dozen.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+http://103.135.208.2/Data/movies/Hollywood/2022/Cheaper%20By%20The%20Dozen%20%282022%29/Cheaper.By.The.Dozen.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Deep Water (2022)" tvg-logo="https://image.tmdb.org/t/p/original//6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg" group-title="New Movies",Deep Water
 http://dl6.sermovie.xyz/Movie/2021/Deep.Water/Deep.Water.2022.REPACK.720p.WEBRip.x264.AAC-YTS.Sermovie.mp4
@@ -28,13 +31,13 @@ http://dl6.sermovie.xyz/Movie/2021/Deep.Water/Deep.Water.2022.REPACK.720p.WEBRip
 http://103.135.208.2/Data/movies/Hollywood/2022/Spider-Man%20No%20Way%20Home%20%282021%29/Spider-Man.No.Way.Home.2021.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Dog (2022)" tvg-logo="https://image.tmdb.org/t/p/original//zHQy4h36WwuCetKS7C3wcT1hkgA.jpg" group-title="New Movies",Dog
-http://khulnaplex.net/Data/movies/hollywood/2022/Dog%20%282022%29/Dog.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+http://103.135.208.2/Data/movies/Hollywood/2022/Dog%20%282022%29/Dog.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="A Day To Die (2022)" tvg-logo="https://image.tmdb.org/t/p/original//8Kce1utfytAG5m1PbtVoDzmDZJH.jpg" group-title="New Movies",A Day To Die
 http://103.135.208.2/Data/movies/Hollywood/2022/A%20Day%20To%20Die%20%282022%29/A.Day.To.Die.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Tyler Perrys A Madea Homecoming (2022)" tvg-logo="https://image.tmdb.org/t/p/original//vzX5GNRTXsAltdU1tfASmZbzYmv.jpg" group-title="New Movies",Tyler Perrys A Madea Homecoming
-http://khulnaplex.net/Data/movies/hollywood/2022/Tyler%20Perrys%20A%20Madea%20Homecoming%20%282022%29/Tyler.Perrys.A.Madea.Homecoming.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+http://103.135.208.2/Data/movies/Hollywood/2022/Tyler%20Perrys%20A%20Madea%20Homecoming%20%282022%29/Tyler.Perrys.A.Madea.Homecoming.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Blacklight (2022)" tvg-logo="https://image.tmdb.org/t/p/original//bv9dy8mnwftdY2j6gG39gCfSFpV.jpg" group-title="New Movies",Blacklight
 http://dl6.sermovie.xyz/Movie/2021/Blacklight.2022/Blacklight.2022.720p.WEBRip.800MB.x264-GalaxyRG.Sermovie.mkv
@@ -58,25 +61,25 @@ http://dl6.sermovie.xyz/Movie/2021/Marry.Me.2022/Marry.Me.2022.720p.WEBRip.800MB
 http://dl6.sermovie.xyz/Movie/2021/The.Kings.Man/The.Kings.Man.2021.720p.WEBRip.900MB.x264-GalaxyRG.Sermovie.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Nightmare Alley (2021)" tvg-logo="https://image.tmdb.org/t/p/original//680klE0dIreQQOyWKFgNnCAJtws.jpg" group-title="New Movies",Nightmare Alley
-https://nw12.seedr.cc/ff_get/1144301950/Nightmare.Alley.2021.mkv?st=_I-PVsPqIygPH8WcI0Hu6Q&e=1649699433
+http://www.movieserver.net/movies/english/part-5/2021/Nightmare%20Alley%20(2021)%20-%201080p%20WEBRip.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="House of Gucci (2021)" tvg-logo="https://image.tmdb.org/t/p/original//vHla3Ej2m53rNmvmYkzvennLrKn.jpg" group-title="New Movies",House of Gucci
-http://khulnaplex.net/Data/movies/hollywood/2022/House%20Of%20Gucci%20%282021%29/House.Of.Gucci.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+http://www.movieserver.net/movies/english/part-5/2021/House%20Of%20Gucci%20(2021)%20-%201080p%20WEBRip.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Clean (2022)" tvg-logo="https://image.tmdb.org/t/p/original//kRpKJstAW7DsoPAEBW2Kk1uD9Q6.jpg" group-title="New Movies",Clean
-https://nw9.seedr.cc/ff_get/1144248567/Clean.2022.mkv?st=jdraSHJpGlECHAzwd2rQkw&e=1649691094
+http://dl6.sermovie.xyz/Movie/2021/Clean/Clean.2022.720p.WEBRip.800MB.x264-GalaxyRG.Sermovie.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="American Underdog (2021)" tvg-logo="https://image.tmdb.org/t/p/original//u3iXpvLPG4DbmuNY9yPjn1Ei54.jpg" group-title="New Movies",American Underdog
-https://nw6.seedr.cc/ff_get/1144249349/American.Underdog.2021.mkv?st=OTbLaEWwOa9C0sXprOYpBg&e=1649691175
+http://www.movieserver.net/movies/english/part-5/2021/American%20Underdog%20(2021)%20-%201080p%20WEBRip.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="The 355 (2022)" tvg-logo="https://image.tmdb.org/t/p/original//xef9Ht77B2igqZv754HNdW8qZCk.jpg" group-title="New Movies",The 355
 http://dl6.sermovie.xyz/Movie/2021/The.355/The.355.2022.720p.BluRay.x264.AAC-YTS.Sermovie.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Eternals (2022)" tvg-logo="https://image.tmdb.org/t/p/original//b6qUu00iIIkXX13szFy7d0CyNcg.jpg" group-title="New Movies",Eternals
-https://nl37.seedr.cc/ff_get/1144214922/Eternals.2021.mp4?st=GjwrCpHLZcB3f4m908HZLw&e=1649687641
+http://103.113.16.46/Data/disk5/movies/hollywood/2021/Eternals%20%282021%29/Eternals.2021.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="The Matrix Resurrections (2021)" tvg-logo="https://image.tmdb.org/t/p/original//8c4a8kE7PizaGQQnditMmI1xbRp.jpg" group-title="New Movies",The Matrix Resurrections
-https://nw4.seedr.cc/ff_get/1144216579/The.Matrix.Resurrections.2021.mkv?st=bJvex5hASmd61cfxAoF-Zw&e=1649687958
+http://103.113.16.46/Data/disk5/movies/hollywood/2021/The%20Matrix%20Resurrections%20%282021%29/The.Matrix.Resurrections.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Ray Donovan: The Movie (2022)" tvg-logo="https://image.tmdb.org/t/p/original//5sw1EvOeXMGRZGWr18R4EiZs036.jpg" group-title="New Movies",Ray Donovan: The Movie
 http://dl1.sermovie.xyz/Movies/2021/Ray.Donovan.The.Movie/Ray.Donovan.The.Movie.2022.720p.AMZN.WEBRip.800MB.x264-GalaxyRG.Sermovie.mkv
@@ -85,7 +88,7 @@ http://dl1.sermovie.xyz/Movies/2021/Ray.Donovan.The.Movie/Ray.Donovan.The.Movie.
 https://tartarus.feralhosting.com/firepig/JP/MOVIES/No%20Time%20To%20Die%20%282021%29%20%5B1080p%5D%20%5BWEBRip%5D%20%5B5.1%5D%20%5BYTS.MX%5D/No.Time.To.Die.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Shang-Chi and the Legend of the Ten Rings (2021)" tvg-logo="https://image.tmdb.org/t/p/original//1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg" group-title="New Movies",Shang-Chi and the Legend of the Ten Rings
-http://103.94.217.211/Movies/English/S/Shang-Chi%20And%20The%20Legend%20Of%20The%20Ten%20Rings%20(2021)/Shang-Chi%20And%20The%20Legend%20Of%20The%20Ten%20Rings%20(2021).mp4
+http://www.movieserver.net/movies/english/part-5/2021/Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%20(2021)%20-%20720p%20BluRay.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Nobody (2021)" tvg-logo="https://image.tmdb.org/t/p/original//oBgWY00bEFeZ9N25wWVyuQddbAo.jpg" group-title="New Movies",Nobody
 https://nl20.seedr.cc/ff_get/1144292406/Nobody.2021.mkv?st=FB1crE5d-xGEz7mUuR521g&e=1649698268
@@ -103,13 +106,13 @@ http://2uzn0dh.257.cz/Filmy/Novinky/Infinite%20(2021)%20%5b720p%5d%20%5bWEBRip%5
 http://dl5.sermovie.xyz/Movies/2021/Old/Old.2021.720p.BluRay.x264.AAC-YTS.Sermovie.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="A Quiet Place (2018)" tvg-logo="https://image.tmdb.org/t/p/original//nAU74GmpUk7t5iklEp3bufwDq4n.jpg" group-title="New Movies",A Quiet Place
-http://khulnaplex.net/Data/movies/hollywood/2018/A%20Quiet%20Place%20%282018%29/A%20Quiet%20Place%20%282018%29%20%5B1080p%5D%20BluRay.mp4
+http://103.113.16.46/Data/disk3/Hollywood/2018/A%20Quiet%20Place%20%282018%29/A%20Quiet%20Place%20%282018%29%20%5B1080p%5D%20BluRay.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="A Quiet Place Part II (2021)" tvg-logo="https://image.tmdb.org/t/p/original//4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg" group-title="New Movies",A Quiet Place Part II
 http://103.135.208.2/Data/movies/Hollywood/2021/A%20Quiet%20Place%20Part%20II%20%282020%29/A.Quiet.Place.Part.II.2020.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Red Notice (2021)" tvg-logo="https://image.tmdb.org/t/p/original//lAXONuqg41NwUMuzMiFvicDET9Y.jpg" group-title="New Movies",Red Notice
-http://khulnaplex.net/Data/movies/hollywood/2021/Red%20Notice%20%282021%29/Red.Notice.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+http://103.113.16.46/Data/disk6/movies/hollywood/2021/Red%20Notice%20%282021%29/Red.Notice.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Venom: Let There Be Carnage (2021)" tvg-logo="https://image.tmdb.org/t/p/original//rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg" group-title="New Movies",Venom: Let There Be Carnage
 http://dl1.sermovie.xyz/Movies/2021/Venom.Let.There.Be.Carnage/Venom.Let.There.Be.Carnage.2021.720p.10bit.BluRay.6CH.x265.HEVC-PSA.Sermovie.mkv
@@ -118,13 +121,13 @@ http://dl1.sermovie.xyz/Movies/2021/Venom.Let.There.Be.Carnage/Venom.Let.There.B
 http://dl4.sermovie.xyz/Movies/2021/Black.Widow/Black.Widow.2021.720p.10bit.BluRay.6CH.x265.HEVC-PSA.Sermovie.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="The Suicide Squad (2021)" tvg-logo="https://image.tmdb.org/t/p/original//kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg" group-title="New Movies",The Suicide Squad
-http://103.115.14.52/Movies/Hollywood/2021/The.Suicide.Squad.2021.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4
+http://103.113.16.46/Data/disk6/movies/hollywood/2021/The%20Suicide%20Squad%20%282021%29/The.Suicide.Squad.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Godzilla vs. Kong (2021)" tvg-logo="https://image.tmdb.org/t/p/original//pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg" group-title="New Movies",Godzilla vs. Kong
 http://dogjdw.ipdisk.co.kr/public/VOL1/public/learn/english/Godzilla.Vs..Kong.2021.1080p.WEBRip.x264.AAC5.1-%5bYTS.MX%5d.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="The Tomorrow War (2021)" tvg-logo="https://image.tmdb.org/t/p/original//34nQZwaEvsy4CFO5hkGRFDCVU.jpg" group-title="New Movies",The Tomorrow War 
-https://nl38.seedr.cc/ff_get/1144298387/The.Tomorrow.War.2021.mkv?st=JOJ7gmG1quVcx9IL8VU8DQ&e=1649698901
+#EXTINF:-1 tvg-id="" tvg-name="The Tomorrow War (2021)" tvg-logo="https://image.tmdb.org/t/p/original//34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg" group-title="New Movies",The Tomorrow War 
+http://103.113.16.46/Data/disk6/movies/hollywood/2021/The%20Tomorrow%20War%20%282021%29/The.Tomorrow.War.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="The Forever Purge (2021)" tvg-logo="https://image.tmdb.org/t/p/original//lB068qa6bQ0QKYKyC2xnYGvYjl7.jpg" group-title="New Movies",The Forever Purge
 http://103.135.208.2/Data/movies/Hollywood/2021/The%20Forever%20Purge%20%282021%29/The.Forever.Purge.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
@@ -136,31 +139,31 @@ http://103.135.208.2/Data/movies/Hollywood/2021/Jungle%20Cruise%20%282021%29/Jun
 http://103.135.208.2/Data/movies/Hollywood/2021/The%20Ice%20Road%20%282021%29/The.Ice.Road.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="A Journal for Jordan (2021)" tvg-logo="https://image.tmdb.org/t/p/original//kkZB0HbADmyVuQyd5SpncK8INXJ.jpg" group-title="New Movies",A Journal for Jordan
-http://192.64.86.228/A%20Journal%20For%20Jordan/A.Journal.For.Jordan.2021.mp4
+http://dl6.sermovie.xyz/Movie/2021/A.Journal.for.Jordan/A.Journal.For.Jordan.2021.720p.BluRay.x264.AAC-YTS.Sermovie.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="The Tender Bar (2021)" tvg-logo="https://image.tmdb.org/t/p/original//m6Ej3F4tYTOHD26fvX1zN9bcEUg.jpg" group-title="New Movies",The Tender Bar
 http://dl6.sermovie.xyz/Movie/2021/The.Tender.Bar/The.Tender.Bar.2021.720p.AMZN.WEBRip.800MB.x264-GalaxyRG.Sermovie.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="The Old Guard (2020)" tvg-logo="https://image.tmdb.org/t/p/original//cjr4NWURcVN3gW5FlHeabgBHLrY.jpg" group-title="New Movies",The Old Guard
-http://103.115.14.52/Movies/Hollywood/2020/The.Old.Guard.2020.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4
+http://103.135.208.2/Data/movies/Hollywood/2020/The%20Old%20Guard%20%282020%29/The%20Old%20Guard%20%282020%29%20720p%20HD%20-%20Bolly2Tolly.tv.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Army of the Dead (2021)" tvg-logo="https://image.tmdb.org/t/p/original//z8CExJekGrEThbpMXAmCFvvgoJR.jpg" group-title="New Movies",Army of the Dead
-http://103.115.14.52/Movies/Hollywood/2021/Army.Of.The.Dead.2021.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4
+http://103.135.208.2/Data/movies/Hollywood/2021/Army%20Of%20The%20Dead%20%282021%29/Army.Of.The.Dead.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Army of Thieves (2021)" tvg-logo="https://image.tmdb.org/t/p/original//iPTZGFmPs7HsXHYxiuxGolihjOH.jpg" group-title="New Movies",Army of Thieves 
-https://nl26.seedr.cc/ff_get/1144284644/Army.of.the.Dead.2021.mkv?st=gzF2xbMhDOPtBVRmyQ1YNw&e=1649696993
+http://103.113.16.46/Data/disk6/movies/hollywood/2021/Army%20Of%20Thieves%20%282021%29/Army.Of.Thieves.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Godzilla: King of the Monsters (2019)" tvg-logo="https://image.tmdb.org/t/p/original//fQ40gmFM4p03tXwMxQQKh2cCBW4.jpg" group-title="New Movies",Godzilla: King of the Monsters
-http://103.115.14.52/Movies/Hollywood/2019/Godzilla.King.Of.The.Monsters.2019.720p.BluRay.x264-%5bYTS.LT%5d.mp4
+http://www.movieserver.net/movies/english/part-4/2019/Godzilla%20King%20of%20the%20Monsters%20(2019)%20-%201080p%20BluRay.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="The Commando (2022)" tvg-logo="https://image.tmdb.org/t/p/original//mvCVaas7FkRV8uvyIJl1ANdT28k.jpg" group-title="New Movies",The Commando
-https://nl29.seedr.cc/ff_get/1144286295/The.Commando.2022.mkv?st=lJqUvQMC12QWk1WC5_v9Gg&e=1649697337
+http://103.135.208.2/Data/movies/Hollywood/2021/The%20Commando%20%282022%29/The.Commando.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="The Tragedy of Macbeth (2021)" tvg-logo="https://image.tmdb.org/t/p/original//eWnDaPkOe0ISpkDgwnfidQoMfX2.jpg" group-title="New Movies",The Tragedy of Macbeth
-https://nw11.seedr.cc/ff_get/1144285928/The.Tragedy.of.Macbeth.2022.mkv?st=XAVZMV5UsrVjh3aL2bCDCQ&e=1649697242
+http://dl6.sermovie.xyz/Movie/2021/The.Tragedy.Of.Macbeth/The.Tragedy.of.Macbeth.2021.720p.10bit.WEB-DL.6CH.x265.HEVC.PSA.Sermovie.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Ghostbusters: Afterlife (2021)" tvg-logo="https://image.tmdb.org/t/p/original//sg4xJaufDiQl7caFEskBtQXfD4x.jpg" group-title="New Movies",Ghostbusters: Afterlife
-http://49.0.64.126/Ghostbusters%20Afterlife%20%282021%29%20%5B1080p%5D%20%5BWEBRip%5D%20%5B5.1%5D%20%5BYTS.MX%5D/Ghostbusters.Afterlife.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+http://www.movieserver.net/movies/english/part-5/2021/Ghostbusters%20Afterlife%20(2021)%20-%201080p%20WEBRip.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Candyman (2021)" tvg-logo="https://image.tmdb.org/t/p/original//dqoshZPLNsXlC1qtz5n34raUyrE.jpg" group-title="New Movies",Candyman
 http://103.135.208.2/Data/movies/Hollywood/2021/Candyman%20%282021%29/Candyman.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
@@ -172,7 +175,7 @@ http://103.135.208.2/Data/movies/Hollywood/2021/Cherry%20%282021%29/Cherry.2021.
 http://103.135.208.2/Data/movies/Hollywood/2021/Coming%202%20America%20%282021%29/Coming.2.America.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Copshop (2021)" tvg-logo="https://image.tmdb.org/t/p/original//szArp3dQlVajpsqpyPFVAFHFsa3.jpg" group-title="New Movies",Copshop
-http://khulnaplex.net/Data/movies/hollywood/2021/Copshop%20%282021%29/Copshop.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+http://103.113.16.46/Data/disk6/movies/hollywood/2021/Copshop%20%282021%29/Copshop.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Dave Chappelle The Closer (2021)" tvg-logo="https://image.tmdb.org/t/p/original//lSK4iExkkVnrA8iPxZwbs8IfnUy.jpg" group-title="New Movies",Dave Chappelle The Closer
 http://dl3.sermovie.xyz/Movies/2021/Dave.Chappelle.The.Closer/Dave.Chappelle.The.Closer.2021.1080p.WEBRip.x264-RARBG.Sermovie.mp4
@@ -181,10 +184,10 @@ http://dl3.sermovie.xyz/Movies/2021/Dave.Chappelle.The.Closer/Dave.Chappelle.The
 http://103.135.208.2/Data/movies/Hollywood/2021/Dont%20Breathe%202%20%282021%29/Dont.Breathe.2.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Escape Room (2019)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8Ls1tZ6qjGzfGHjBB7ihOnf7f0b.jpg" group-title="New Movies",Escape Room
-http://abcmoviesbd.com/Data/Movies/English/Disk-1/2019/Escape%20Room%20%282019%29/Escape.Room.2019.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+http://103.135.208.2/Data/movies/Hollywood/2019/Escape%20Room%20%282019%29/Escape.Room.2019.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Escape Room: Tournament of Champions (2021)" tvg-logo="https://image.tmdb.org/t/p/original//jGYJyPzVgrVV2bgClI9uvEZgVLE.jpg" group-title="New Movies",Escape Room: Tournament of Champions
-http://khulnaplex.net/Data/movies/hollywood/2021/Escape%20Room%20Tournament%20Of%20Champions%20%282021%29/Escape.Room.Tournament.Of.Champions.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+http://103.113.16.46/Data/disk6/movies/hollywood/2021/Escape%20Room%20Tournament%20Of%20Champions%20%282021%29/Escape.Room.Tournament.Of.Champions.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Free Guy (2021)" tvg-logo="https://image.tmdb.org/t/p/original//xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg" group-title="New Movies",Free Guy
 http://103.135.208.2/Data/movies/Hollywood/2021/Free%20Guy%20%282021%29/Free.Guy.2021.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
@@ -196,13 +199,13 @@ http://dl1.sermovie.xyz/Movies/2021/Halloween.Kills/Halloween.Kills.2021.EXTENDE
 http://dl1.sermovie.xyz/Movies/2021/Mortal.Kombat/Mortal.Kombat.2021.720p.10bit.WEB-DL.6CH.x265.HEVC-PSA.Sermovie.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="National Champions (2021)" tvg-logo="https://image.tmdb.org/t/p/original//gRj82OOTJ8bmtUJDap9tNnswF0N.jpg" group-title="New Movies",National Champions
-http://khulnaplex.net/Data/movies/hollywood/2021/National%20Champions%20%282021%29/National.Champions.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+http://103.135.208.2/Data/movies/Hollywood/2021/National%20Champions%20%282021%29/National.Champions.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Don't Look Up (2021)" tvg-logo="https://image.tmdb.org/t/p/original//th4E1yqsE8DGpAseLiUrI60Hf8V.jpg" group-title="New Movies",Don't Look Up
 http://103.135.208.2/Data/movies/Hollywood/2021/Dont%20Look%20Up%20%282021%29/Dont.Look.Up.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Resident Evil Welcome to Raccoon City (2021)" tvg-logo="https://image.tmdb.org/t/p/original//hOH104kVkCJ6uPUi5tLro346SBc.jpg" group-title="New Movies",Resident Evil Welcome to Raccoon City
-http://khulnaplex.net/Data/movies/hollywood/2021/Resident%20Evil%20Welcome%20To%20Raccoon%20City%20%282021%29/Resident.Evil.Welcome.To.Raccoon.City.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+http://103.135.208.2/Data/movies/Hollywood/2021/Resident%20Evil%20Welcome%20To%20Raccoon%20City%20%282021%29/Resident.Evil.Welcome.To.Raccoon.City.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Snake Eyes (2021)" tvg-logo="https://image.tmdb.org/t/p/original//uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg" group-title="New Movies",Snake Eyes
 http://103.135.208.2/Data/movies/Hollywood/2021/Snake%20Eyes%20%282021%29/Snake.Eyes.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
@@ -217,10 +220,10 @@ http://103.135.208.2/Data/movies/Hollywood/2020/Mortal%20Kombat%20Legends%3A%20S
 http://103.135.208.2/Data/movies/animation/new/Mortal%20Kombat%20Legends%20Battle%20Of%20The%20Realms%20%282021%29/Mortal.Kombat.Legends.Battle.Of.The.Realms.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Respect (2021)" tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/637833/74V55lXzfm1KTiGIkoob521nibDtydGP4IisO4OT.webp" group-title="New Movies",Respect
-http://khulnaplex.net/Data/movies/hollywood/2021/Respect%20%282021%29/Respect.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+http://103.135.208.2/Data/movies/Hollywood/2021/Respect%20%282021%29/Respect.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="21 Bridges (2019)" tvg-logo="https://image.tmdb.org/t/p/original//kDlmrGZROewneCoSwPjKx6Qfown.jpg" group-title="New Movies",21 Bridges
-https://nw9.seedr.cc/ff_get/1144294711/21.Bridges.2019.mkv?st=6z3Zft9IJ8cRI-_XG8_Vhw&e=1649698390
+http://www.movieserver.net/movies/english/part-4/2019/21%20Bridges%20(2019)%20-%201080p%20BluRay.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Soul (2020)" tvg-logo="https://image.tmdb.org/t/p/original//qPsZyyPmocFO70AOs1agd2UikfC.jpg" group-title="Movies",Soul
 https://nl35.seedr.cc/ff_get/1144287202/Soul.2020.mkv?st=V_E7umG5Ax3_iDa67Eh7Ww&e=1649697430
