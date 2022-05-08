@@ -1072,11 +1072,33 @@ https://nl36.seedr.cc/ff_get/1144271323/Bumblebee.2018.mp4?st=mFN9relQgm88THnMWA
 
 
 
-
+Live Streams
 #EXTINF:-1 tvg-id="" tvg-name="The Walking Dead Universe" tvg-logo="https://i.ibb.co/sm7jQ8q/The-Walking-Dead-Universe.png" group-title="The Walking Dead Universe",The Walking Dead Universe
 https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TWDUniverseExperience/8904a4da-6f3f-43b0-94ec-170fdc84087f/5.m3u8
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Def Comedy Jam" tvg-logo="https://i.ibb.co/GxD6Vqy/MV5-BNz-Bl-ZDFj-ZTUt-Nj-Uy-Ny00-Yj-A1-LWJm-OTgt-OGFm-MGFh-YTcx-YTg0-Xk-Ey-Xk-Fqc-Gde-QXVy-OTQ5-Njc0.jpg" group-title="Def Comedy Jam",Def Comedy Jam
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-620462434ebc6b3b9a8aed94/variant.m3u8?url=971b4c2c9f422e644730a51d1c77b532-f5a83d427f8562369f45334d12d10e7a2697943cd83558e2d80c3fc8a266f80e110c0363b068005756eb280cebc4363b1db76279278da7b95bc6f8d784d5d4e8ea0af2a2f657bcb40886bb7faa9f1a6ede868b155b461c44fc1f4b022252d09e897126dd68a163a9ae90b2eb4a7c4b95ba50b3107c0aa312e8e37fb354a603deadd1e13c2ed8954d0e672155f6de8bfa6d7407bdff253cc0dd24a8b53b60bff79962562073805946f3c707d339658327477d0dbbbaa8f97be9e4b8ae8650bd241c35db9f137183266521abbe39dd9604&x-plex-token=ZzgXqfteYTAaaUu_SftZ
+
+
+MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="Stringray Hip-Hop/R&B" tvg-logo="https://i.ibb.co/cDYtmKr/thumbh-20200717-232723.jpg" group-title="MUSIC",Stringray Hip-Hop/R&B
+https://dai.google.com/linear/hls/pa/event/tNflj2YMTfCWowqDM1Ej6A/stream/c821674d-5ae8-46ed-8163-c63f099f2e6a:MRN2/variant/76bc101b040b73392f0c6256423fdaf1/bandwidth/1856404.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Soul Storm" tvg-logo="https://i.ibb.co/F6gHqTf/Sting-Ray-Soul-Storm.png" group-title="MUSIC",Stingray Soul Storm
+https://d26ryn1s9vxsg0.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-main-hlsv3/0b552726-fe0d-4496-8929-24094b1bc159/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="iHeart90's" tvg-logo="https://i.ibb.co/hDxvkCY/i-Heart90-s.png" group-title="MUSIC",iHeart90's
+https://d26ryn1s9vxsg0.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-main-hlsv3/08c2ae3c-6877-4d4c-a7d0-88e9e5a147bf/2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="iHeart The Beat" tvg-logo="https://i.ibb.co/VtKQm4y/i-Heart-The-Beat.png" group-title="MUSIC",iHeart The Beat
+https://d26ryn1s9vxsg0.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-main-hlsv3/572f2b6b-2f98-4dad-813d-8fd9931911b1/2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="THE BEAT" tvg-logo="https://i.ibb.co/SrJ0y67/45dc5aaa-3742-458d-a539-5e126553ade9.png" group-title="MUSIC",THE BEAT
+https://n07a-e2.revma.ihrhls.com/zc4429/7_v0hl9kr25kiu02/playlist.m3u8?zip=20785&callLetters=RBHH-FL&country=US&rj-ttl=5&streamid=4429&site-url=https%3A%2F%2Fwww.iheart.com%2Flive%2Fthe-beat-4429%2F&dist=iheart&terminalid=159&locale=en-US&rj-tok=AAABgKEoebYAorbqFco88mTGLA&listenerId=&clientType=web&modTime=1651970498262&profileid=1683555488&host=webapp.US&us_privacy=1-N-&devicename=web-desktop&subscription_type=free&territory=US&stationid=4429
+
+#EXTINF:-1 tvg-id="" tvg-name="Fly Nation Radio Hip-Hop Classics" tvg-logo="https://i.ibb.co/dD0n95r/f7456306-62bf-49bb-ba4e-4ea704680ae2.png" group-title="MUSIC",Fly Nation Radio
+Hip Hop Classics
+https://n03a-e2.revma.ihrhls.com/zc6732/3_e718zf4iyg4o02/playlist.m3u8?zip=20785&callLetters=FLY-FL&country=US&rj-ttl=5&streamid=6732&site-url=https%3A%2F%2Fwww.iheart.com%2Flive%2Ffly-nation-radio-6732%2F&dist=iheart&terminalid=159&locale=en-US&rj-tok=AAABgKErh1IARicMaxtiuWDNmg&listenerId=&clientType=web&modTime=1651970498262&profileid=1683555488&host=webapp.US&us_privacy=1-N-&devicename=web-desktop&subscription_type=free&territory=US&stationid=6732
+
+#EXTINF:-1 tvg-id="" tvg-name="Master of the Mix" tvg-logo="https://i.ibb.co/whPvMVz/5164.png" group-title="MUSIC",Master of the Mix
+https://n17a-e2.revma.ihrhls.com/zc5164/23_snc3hn510pu802/playlist.m3u8?zip=20785&callLetters=IBET-FL&country=US&rj-ttl=5&streamid=5164&site-url=https%3A%2F%2Fwww.iheart.com%2Flive%2Fmaster-of-the-mix-5164%2F&dist=iheart&terminalid=159&locale=en-US&rj-tok=AAABgKEtd-wAuimE3UNGfZeMkQ&listenerId=&clientType=web&modTime=1651970498262&profileid=1683555488&host=webapp.US&us_privacy=1-N-&devicename=web-desktop&subscription_type=free&territory=US&stationid=5164
